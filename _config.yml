@@ -1,6 +1,3 @@
 theme: jekyll-theme-slate
 title: Przemysław Gałuszka
 description: keep evolving and learn
-header_pages:
-  - index.md
-  - about/index.md
