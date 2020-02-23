@@ -1,1 +1,1 @@
-Sekcja "o mnie"
+# Sekcja "o mnie"
