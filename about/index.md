@@ -1,1 +1,0 @@
-# Sekcja "o mnie"

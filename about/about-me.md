@@ -1,1 +1,0 @@
-# trochę słów o mnie
