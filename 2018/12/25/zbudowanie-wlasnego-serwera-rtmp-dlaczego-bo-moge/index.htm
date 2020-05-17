@@ -1,0 +1,279 @@
+﻿<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="pl-PL">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="pl-PL">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="pl-PL">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Zbudowanie własnego serwera RTMP – Dlaczego? Bo mogę! | Keep evolving and learn</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://192.168.0.102/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="http://192.168.0.102/wp-content/themes/twentytwelve/js/html5.js?ver=3.7.0" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//fonts.googleapis.com'>
+<link rel='dns-prefetch' href='//s.w.org'>
+<link href='https://fonts.gstatic.com' crossorigin="" rel='preconnect'>
+<link rel="alternate" type="application/rss+xml" title="Keep evolving and learn &raquo; Kanał z wpisami" href="../../../../feed/index.rss">
+<link rel="alternate" type="application/rss+xml" title="Keep evolving and learn &raquo; Kanał z komentarzami" href="../../../../comments/feed/index.rss">
+		<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/192.168.0.102\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='../../../../wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all'>
+<link rel='stylesheet' id='wp-block-library-theme-css' href='../../../../wp-includes/css/dist/block-library/theme.min.css?ver=5.4.1' type='text/css' media='all'>
+<link rel='stylesheet' id='twentytwelve-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&subset=latin%2Clatin-ext&display=fallback' type='text/css' media='all'>
+<link rel='stylesheet' id='twentytwelve-style-css' href='../../../../wp-content/themes/twentytwelve/style.css?ver=20190507' type='text/css' media='all'>
+<link rel='stylesheet' id='twentytwelve-block-style-css' href='../../../../wp-content/themes/twentytwelve/css/blocks.css?ver=20190406' type='text/css' media='all'>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://192.168.0.102/wp-content/themes/twentytwelve/css/ie.css?ver=20150214' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../../../wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='../../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='../../../../wp-json/index.json'>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../../xmlrpc.xml?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../wp-includes/wlwmanifest.xml"> 
+<link rel='prev' title='Mój nowy/stary flow nagrywania gier na Youtube' href='../../../11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/index.htm'>
+<link rel='next' title='Wracam na Twitch&#039;a&#8230; Bo zmienili apkę' href='../../26/wracam-na-twitcha-bo-zmienili-apke/index.htm'>
+<meta name="generator" content="WordPress 5.4.1">
+<link rel="canonical" href="index.htm">
+<link rel='shortlink' href='index.htm?p=1764'>
+<link rel="alternate" type="application/json+oembed" href="../../../../wp-json/oembed/1.0/embed-3.json?url=http%3A%2F%2F192.168.0.102%2F2018%2F12%2F25%2Fzbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge%2F">
+<link rel="alternate" type="text/xml+oembed" href="../../../../wp-json/oembed/1.0/embed-3.xml?url=http%3A%2F%2F192.168.0.102%2F2018%2F12%2F25%2Fzbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge%2F&#038;format=xml">
+<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style></head>
+
+<body class="post-template-default single single-post postid-1764 single-format-standard wp-embed-responsive custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="../../../../index.htm" title="Keep evolving and learn" rel="home">Keep evolving and learn</a></h1>
+			<h2 class="site-description">Przemysław Gałuszka &#8211; strona prywatna</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="#content" title="Przeskocz do treści">Przeskocz do treści</a>
+			<div class="menu-main-menu_1-container"><ul id="menu-main-menu_1" class="nav-menu"><li id="menu-item-1800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1800"><a href="../../../../index.htm">Strona główna</a></li>
+<li id="menu-item-1801" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-1801"><a href="../../../../category/blog-main/index.htm">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-1803" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1803"><a href="../../../../category/blog-main/blog-prywatny/index.htm">Blog &#8211; Prywatny</a></li>
+	<li id="menu-item-1802" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1802"><a href="../../../../category/blog-main/blog-technika/index.htm">Blog &#8211; Technika</a></li>
+</ul>
+</li>
+<li id="menu-item-1804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1804"><a href="../../../../category/informacje/index.htm">Informacje o stronie</a></li>
+<li id="menu-item-1805" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1805"><a href="../../../../category/portfolio/index.htm">Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-1806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1806"><a href="../../../../category/portfolio/portfolio-windows/index.htm">Portfolio &#8211; Windows</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1807"><a href="../../../../category/portfolio/portfolio-windows/windows8/index.htm">Portfolio &#8211; Windows 8</a></li>
+		<li id="menu-item-1808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1808"><a href="../../../../category/portfolio/portfolio-windows/windows81/index.htm">Portfolio &#8211; Windows 8.1</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1809" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1809"><a href="../../../../category/portfolio/portfolio-windows-phone/index.htm">Portfolio &#8211; Windows Phone</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1811"><a href="../../../../category/portfolio/portfolio-windows-phone/windowsphone7/index.htm">Portfolio &#8211; Windows Phone 7</a></li>
+		<li id="menu-item-1810" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1810"><a href="../../../../category/portfolio/portfolio-windows-phone/windowsphone8/index.htm">Portofolio &#8211; Windows Phone 8</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1813" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1813"><a href="../../../../category/o-mnie/index.htm">O mnie</a></li>
+<li id="menu-item-1814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1814"><a href="../../../../category/kontakt/index.htm">Kontakt</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+				<a href="../../../../index.htm"><img src="../../../../wp-content/uploads/2020/05/cropped-DJI_0478-HDR-3.png" class="header-image" width="2000" height="520" alt="Keep evolving and learn"></a>
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-1764" class="post-1764 post type-post status-publish format-standard hentry category-blog-main category-blog-prywatny category-blog-technika">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">Zbudowanie własnego serwera RTMP – Dlaczego? Bo mogę!</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			
+<div class="wp-block-image"><figure class="alignleft"><img src="http://pgaluszka.pl/wp-content/uploads/2018/12/News_Banners_Nginx-300x169.jpg" alt="" class="wp-image-1778"></figure></div>
+
+
+<p style="text-align:left">Do napisania tego wpisu oraz stworzenia wyżej wymienionego serwera zmusił mnie ostatni wyścig F1 w Abu&nbsp;Dhabi. Część z Was wie, że wykupuję abonament&nbsp;Eleven&nbsp;Sports, aby oglądać wyścigi tej serii wyścigowej. Od już jakiegoś czasu bardzo&nbsp;denerwowało&nbsp;mnie to, że wspomniana telewizja nie opublikowała aplikacji dla Xbox One.&nbsp;Niestety&nbsp;nie mam mądrego&nbsp;telewizora (Smart TV) ani przystawki z własnym systemem operacyjnym (np. Android TV) potrzebowałem jakiegoś wyjścia z sytuacji.&nbsp;Najlepszym rozwiązaniem w tej sytuacji byłaby wspomniana natywna aplikacja dla konsoli, ale&nbsp;że jej nie ma to trzeba było sobie jakoś radzić inaczej. Odpowiedzią na moje potrzeby jest własny&nbsp;serwerek&nbsp;RTMP, na który urządzenia odtwarzające transmisje będą wysyłać obraz oraz dźwięk, a inne urządzenia (w domyśle konsola) będzie transmisję odbierać za pośrednictwem protokołu RTMP. Brzmi to mocno skomplikowanie, ale powiem szczerze, że było to bardzo proste w wykonaniu!</p>
+
+
+<span id="more-1764"></span>
+
+
+<h3>Nie mam komputera na serwer! Co zrobić?&nbsp;</h3>
+
+
+<p>No dobra, nie każdy ma w domu bardzo dużo sprzętu i nie każdy jest w stanie od tak sobie jeden z dostępnych komputerów zaadaptować na serwer lub każdą inną zachciankę. Ja do tego celu użyłem starego, dobrego VirtualBox’a oraz zainstalowałem na nim najnowszą wersję Ubuntu w wersji LTS (18.03). Podczas instalacji wybrałem opcję minimalną tak, aby maszyna wirtualna zabierała jak najmniej zasobów. Na potrzeby maszyny przydzieliłem ok 3,5GB RAMu, dwa wątki i ok 15GB przestrzeni dysku twardego komputera, który został Hostem naszego Ubuntu. Komputer, który został Hostem obecnie pracuje pod kontrolą Windows 10 (Home – Insider Preview). Oczywiście można do tego celu wykorzystać wszystko co przyjmie jakikolwiek system operacyjny, na którym da się zainstalować NGINX 🙂 Nie będę opisywał szczegółów instalacji Ubuntu, gdyż pokryłem to już w innym poście na tym blogu. Pomimo tego, że jest już nowsza wersja systemu to sposób instalacji jest wciąż prosty. Podczas instalacji wybrałem opcję minimalną opcję instalacji systemu jak już wspomniałem wcześniej.</p>
+
+
+<h3>Instalacja serwera&nbsp;NginX&nbsp;oraz ustawienie rodzaju sieci dla maszyny wirtualnej&nbsp;</h3>
+
+
+<p>Zacznijmy od ustawień sieci. Żeby bawić się jak najmniej i sprawić sobie jak najmniej problemów i kłopotów ustawiłem wirtualną kartę sieciową jako&nbsp;bridged&nbsp;&#8211; pójście na łatwiznę, ale działa. Oznacza to to, że nasza maszyna wirtualna działa w tej samej sieci co nasze wszystkie inne urządzenia &#8211; wliczając w to urządzenia, które rozpoczynają&nbsp;streama&nbsp;oraz bezpośrednio wysyłają obraz oraz dźwięk do serwera, który znajduje się na wspomnianej maszynie. Instalacja serwera NGINX była niesamowicie prosta. Żeby rozpocząć instalację&nbsp;wystarczy zalogować się do systemu, który jest gościem w naszej maszynie, odpalić terminal oraz wbić przedstawioną poniżej komendą:&nbsp;</p>
+
+
+<pre class="wp-block-preformatted"><em>$&nbsp;sudo&nbsp;apt-get&nbsp;install&nbsp;build-essential&nbsp;libpcre3 libpcre3-dev&nbsp;libssl-dev&nbsp;</em></pre>
+
+
+<p>Jeżeli&nbsp;by&nbsp;wam wypluło jakieś błędy związane z&nbsp;<strong>libpcre3&nbsp;</strong>to wystarczy zajrzeć tutaj &#8211;&gt;&nbsp;<a rel="noreferrer noopener" href="https://askubuntu.com/questions/813788/cant-install-libpcre3-dev/813797" target="_blank">link</a>. Następnie musicie sobie ściągnąć NGINX z głównej strony projektu. Najlepiej odpalić poniższą komendę w tzw. Home Directory:</p>
+
+
+<pre class="wp-block-preformatted"><em>$&nbsp;wget&nbsp;</em><a rel="noreferrer noopener" href="http://nginx.org/download/nginx-1.15.1.tar.gz" target="_blank"><em>http://nginx.org/download/nginx-1.15.1.tar.gz</em></a>&nbsp;</pre>
+
+
+<p>Jak po raz ostatni tworzyłem taki serwer&nbsp;wersja&nbsp;1.15 była najnowszą. Wy będzie musieli sobie sprawdzić jaka jest najbardziej aktualna wersja i taką sobie ściągnąć.&nbsp;Następnie należy dociągnąć sobie&nbsp;moduł&nbsp;RTMP dla NGINX z&nbsp;GitHub’a:</p>
+
+
+<pre class="wp-block-preformatted"><em>$&nbsp;wget&nbsp;</em><a rel="noreferrer noopener" href="https://github.com/sergey-dryabzhinsky/nginx-rtmp-module/archive/dev.zip" target="_blank"><em>https://github.com/sergey-dryabzhinsky/nginx-rtmp-module/archive/dev.zip</em></a><em>&nbsp;</em></pre>
+
+
+<p>Rozpakowujemy oba ściągnięte pliki:&nbsp;&nbsp;<br></p>
+
+
+<pre class="wp-block-preformatted"><em>$ tar -zxvf&nbsp;nginx-1.15.1.tar.gz&nbsp;<br>$&nbsp;unzip&nbsp;dev.zip&nbsp;<br>$ cd nginx-1.15.1</em></pre>
+
+
+<p>Budujemy serwer:&nbsp;&nbsp;</p>
+
+
+<pre class="wp-block-preformatted"><em>$ ./configure&nbsp;--with-http_ssl_module&nbsp;--add-module=../nginx-rtmp-module-dev&nbsp;<br>$&nbsp;make&nbsp;<br>$&nbsp;sudo&nbsp;make&nbsp;install&nbsp;</em></pre>
+
+
+<p>Następnie go uruchamiamy: </p>
+
+
+<pre class="wp-block-preformatted"><em>$ sudo /usr/local/nginx/sbin/nginx </em></pre>
+
+
+<p>Można jeszcze sprawdzić czy serwer działa pingując nasz serwer używając IP naszej maszyny wirtualnej oraz wchodząc na adres http://WaszeIP, gdzie powinien się pojawić komunikat powitalny serwera NGINX.</p>
+
+
+<h3>Konfigurowanie serwera NGINX przed użyciem</h3>
+
+
+<p>Aby rozpocząć konfigurację serwera NIGNX, należy otworzyć jego plik konfiguracyjny znajdujący się w tej lokalizacji: </p>
+
+
+<pre class="wp-block-preformatted">/usr/local/nginx/conf/nginx.conf&nbsp;</pre>
+
+
+<p>oraz na jego końcu dodać poniższy tekst: </p>
+
+
+<pre class="wp-block-preformatted">rtmp {<br>         server {<br>                 listen 1935;<br>                 chunk_size 4096;<br> <code>                 </code><br><code>&nbsp;                 application live {                     </code><br><code>&nbsp;                          live on;                     </code><br><code>&nbsp;                       record off;</code><br><code>&nbsp;                 }</code><br><code>&nbsp;         }</code><br>}</pre>
+
+
+<p>Teraz tylko restart serwera NGINX i będziemy mogli działać dalej:</p>
+
+
+<pre class="wp-block-preformatted">$ sudo /usr/local/nginx/sbin/nginx -s stop<br>$ sudo /usr/local/nginx/sbin/nginx</pre>
+
+
+<p>Teraz powinniście być w stanie wysyłać obraz oraz dźwięk na serwer a ten powinien przyjmować od Was dane 🙂<br>Wystarczy, że ustawicie sobie odpowiednio OBS czy tam inną aplikację, której chcecie użyć w taki sposób:</p>
+
+
+<pre class="wp-block-preformatted">Streaming Service: Custom<br>Server: rtmp:///live<br>Play Path/Stream Key: test</pre>
+
+
+<h3>Koniec</h3>
+
+
+<p>To by było na tyle, jeżeli chodzi o konfigurację i uruchomienie serwera, którego chcecie użyć. Najlepsze jest to, że później można rzucić przekierowanie na inny serwis, który jest już ogólnodostępny.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			Ten wpis został opublikowany w <a href="../../../../category/blog-main/index.htm" rel="category tag">Blog</a>, <a href="../../../../category/blog-main/blog-prywatny/index.htm" rel="category tag">Blog - Prywatny</a>, <a href="../../../../category/blog-main/blog-technika/index.htm" rel="category tag">Blog - Technika</a> dnia <a href="index.htm" title="11:37 am" rel="bookmark"><time class="entry-date" datetime="2018-12-25T11:37:47+00:00">25 grudnia, 2018</time></a>, <span class="by-author">przez <span class="author vcard"><a class="url fn n" href="../../../../author/user/index.htm" title="Zobacz wszystkie wpisy, których autorem jest Laser" rel="author">Laser</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">Zobacz wpisy</h3>
+					<span class="nav-previous"><a href="../../../11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/index.htm" rel="prev"><span class="meta-nav">&larr;</span> Mój nowy/stary flow nagrywania gier na Youtube</a></span>
+					<span class="nav-next"><a href="../../26/wracam-na-twitcha-bo-zmienili-apke/index.htm" rel="next">Wracam na Twitch&#039;a&#8230; Bo zmienili apkę <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://192.168.0.102/">
+				<div>
+					<label class="screen-reader-text" for="s">Szukaj:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Szukaj">
+				</div>
+			</form></aside><aside id="media_image-2" class="widget widget_media_image"><img width="800" height="800" src="../../../../wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n.jpg" class="image wp-image-1830  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="../../../../wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n.jpg 800w, ../../../../wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-300x300.jpg 300w, ../../../../wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-150x150.jpg 150w, ../../../../wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-768x768.jpg 768w, ../../../../wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-624x624.jpg 624w" sizes="(max-width: 800px) 100vw, 800px"></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Najnowsze wpisy</h3>		<ul>
+											<li>
+					<a href="../../../../2020/05/16/curriculum-vitae/index.htm">CURRICULUM VITAE</a>
+									</li>
+											<li>
+					<a href="../../../../2019/04/01/prywatnie/index.htm">Prywatnie</a>
+									</li>
+											<li>
+					<a href="../../26/wracam-na-twitcha-bo-zmienili-apke/index.htm">Wracam na Twitch&#039;a&#8230; Bo zmienili apkę</a>
+									</li>
+											<li>
+					<a href="index.htm" aria-current="page">Zbudowanie własnego serwera RTMP – Dlaczego? Bo mogę!</a>
+									</li>
+											<li>
+					<a href="../../../11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/index.htm">Mój nowy/stary flow nagrywania gier na Youtube</a>
+									</li>
+					</ul>
+		</aside><aside id="categories-4" class="widget widget_categories"><h3 class="widget-title">Kategorie</h3><form action="http://192.168.0.102" method="get"><label class="screen-reader-text" for="cat">Kategorie</label><select name='cat' id='cat' class='postform'>
+	<option value='-1'>Wybierz kategorię</option>
+	<option class="level-0" value="3">Blog</option>
+	<option class="level-1" value="4">&nbsp;&nbsp;&nbsp;Blog &#8211; Prywatny</option>
+	<option class="level-1" value="5">&nbsp;&nbsp;&nbsp;Blog &#8211; Technika</option>
+	<option class="level-0" value="6">Informacje o stronie</option>
+	<option class="level-0" value="7">Kontakt</option>
+	<option class="level-0" value="8">O mnie</option>
+	<option class="level-0" value="9">Portfolio</option>
+	<option class="level-1" value="10">&nbsp;&nbsp;&nbsp;Portfolio &#8211; Windows</option>
+	<option class="level-2" value="11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio &#8211; Windows 8</option>
+	<option class="level-2" value="12">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio &#8211; Windows 8.1</option>
+	<option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Portfolio &#8211; Windows Phone</option>
+	<option class="level-2" value="14">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio &#8211; Windows Phone 7</option>
+	<option class="level-2" value="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portofolio &#8211; Windows Phone 8</option>
+</select>
+</form>
+<script type="text/javascript">//<![CDATA[
+(function(){var dropdown=document.getElementById("cat");function onCatChange(){if(dropdown.options[dropdown.selectedIndex].value>0){dropdown.parentNode.submit();}}dropdown.onchange=onCatChange;})();
+//]]></script>
+
+			</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+									<a href="https://pl.wordpress.org/" class="imprint" title="Semantyczną, osobistą platformę publikacyjną">
+				Dumnie wspierane przez WordPressa			</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='../../../../wp-content/themes/twentytwelve/js/navigation.js?ver=20141205'></script>
+<script type='text/javascript' src='../../../../wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+  <div id="bitnami-banner" data-banner-id="2e6ef">  <style>#bitnami-banner{z-index:100000;height:80px;padding:0;width:120px;background:transparent;position:fixed;right:0;bottom:0;border:0 solid #ededed}#bitnami-banner .bitnami-corner-image-div{position:fixed;right:0;bottom:0;border:0;z-index:100001;height:110px}#bitnami-banner .bitnami-corner-image-div .bitnami-corner-image{position:fixed;right:0;bottom:0;border:0;z-index:100001;height:110px}#bitnami-close-banner-button{height:12px;width:12px;z-index:10000000000;position:fixed;right:5px;bottom:65px;display:none;cursor:pointer}</style>  <img id="bitnami-close-banner-button" alt="Close Bitnami banner" src="../../../../bitnami/images/xclose.png.pagespeed.ic.Zei43eohAv.png">  <div class="bitnami-corner-image-div">     <a href="../../../../bitnami/index.html" target="_blank">       <img class="bitnami-corner-image" alt="Bitnami" src="../../../../bitnami/images/xcorner-logo.png.pagespeed.ic.6TukXqDtLV.png">     </a>  </div>  <script type="text/javascript">//<![CDATA[
+(function(){var banner=document.getElementById("bitnami-banner");var closeButton=document.getElementById("bitnami-close-banner-button");var toggleCloseButton=function toggleCloseButton(open){if(closeButton){if(open&&banner&&banner.style.display!="none"){closeButton.style.display="block";}else{closeButton.style.display="none";}}return false;};var setCookie=function setCookie(cname,cvalue,exdays){var d=new Date();d.setTime(d.getTime()+(exdays*24*60*60*1000));var expires="expires="+d.toUTCString();document.cookie=cname+"="+cvalue+"; "+expires;};var closeBanner=function closeBanner(open){if(banner){var suffix=banner.getAttribute('data-banner-id')||'global';banner.style.display="none";setCookie('_bitnami_closed_banner_'+suffix,"1",30);}return false;};banner.onmouseover=function(){return toggleCloseButton(1);};banner.onmouseout=function(){return toggleCloseButton(0);};closeButton.onclick=closeBanner;}());
+//]]></script> </div>   </body>
+</html>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Informacje o stronie &#8211; Keep evolving and learn</title>
+	<atom:link href="http://192.168.0.102/category/informacje/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.102</link>
+	<description>Przemysław Gałuszka - strona prywatna</description>
+	<lastBuildDate>Tue, 11 Oct 2016 18:10:30 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Zgłaszanie problemów na GitHub&#039;ie</title>
+		<link>http://192.168.0.102/2016/10/11/zglaszanie-problemow-na-githubie/</link>
+		
+		<dc:creator><![CDATA[Laser]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2016 18:10:30 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Blog - Technika]]></category>
+		<category><![CDATA[Informacje o stronie]]></category>
+		<guid isPermaLink="false">http://pgaluszka.pl/?p=1326</guid>
+
+					<description><![CDATA[Już jakiś czas temu zacząłem pracę jako tester. Pracę swoją uwielbiam, ale czasami brakuje mi jednak programowania. Na całe szczęście mam jeszcze okazję siadać przy Visual Studio i popisać kilka linijek &#8211; tak dla wprawy, żeby nie zapomnieć. Temat tego wpisu jednak jest bardziej pokrętny, gdyż wiąże się bardzo mocno z moją codzienną pracą. Zgłaszaniem [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img class="size-medium wp-image-1330 alignleft" src="http://pgaluszka.pl/wp-content/uploads/2016/10/68747470733a2f2f696d672e736b697463682e636f6d2f32303131303830392d6d73686a36626d39326e3335363469666e6679747468627032392e6a7067-300x67.jpg" alt="68747470733a2f2f696d672e736b697463682e636f6d2f32303131303830392d6d73686a36626d39326e3335363469666e6679747468627032392e6a7067" width="300" height="67" />Już jakiś czas temu zacząłem pracę jako tester. Pracę swoją uwielbiam, ale czasami brakuje mi jednak programowania. Na całe szczęście mam jeszcze okazję siadać przy Visual Studio i popisać kilka linijek &#8211; tak dla wprawy, żeby nie zapomnieć. Temat tego wpisu jednak jest bardziej pokrętny, gdyż wiąże się bardzo mocno z moją codzienną pracą. Zgłaszaniem błędów. <span id="more-1326"></span><br />
+Jak dobrze wiecie (albo i nie), GitHub ma wbudowaną funkcjonalność zgłaszania błędów. Jest ona modyfikowalna (pod względem edycji zaimplantowanych funkcji, np. zmiany nazw etykiet) do pewnego stopnia przez co prosta w obsłudze. Ogólnie rzecz biorąc jest to fajne narzędzie. Porównam sobie to troszkę z systemami, które poznałem / na których pracowałem. Nie ma ich zbyt dużo bo pracowałem na JIRA&#8217;e i YouTrack&#8217;u.<br />
+<img class="size-medium wp-image-1327 alignleft" src="http://pgaluszka.pl/wp-content/uploads/2016/10/Screenshot_18-300x152.png" alt="screenshot_18" width="300" height="152" />Systemy do zgłaszania problemów / błędów mają bardzo podobne cechy. Ogólnie rzecz biorąc pola w większości przypadków są takie same. Mam na myśli takie rzeczy jak tytuł, opis, milestone, etykieta, komu przypisujemy błąd, etc. JIRA i GitHub są bardzo podobne w tej swojej konstrukcji. Co prawda JIRA ma więcej pól i jest bardziej modyfikowalna. Na githubie nie zauważyłem zbyt wielu opcji modyfikacji.<br />
+Najwygodniejszym, zarazem najbardziej dostosowywalnym system do obsługi tzw. &#8222;issues&#8221; jest dla mnie YouTrack. Przy czym jest to oddzielny system i nie ma tam repozytorium kodu. Taki dev na pewno nie będzie chciał tam wejść i przeglądać dodatkowo jeszcze jednej bazy, wklejać jakiś linków do fixów dla odpowiednich commitów.<br />
+Całkiem fajnie to działa muszę powiedzieć. Do podstawowych czynności obsługi nie mam najmniejszych zastrzeżeń. Można sobie zmieniać nazwy etykiet, tworzyć kamienie milowe, dawać komentarze, przypisywać problemy. Typowe, najprostsze zadania.<br />
+Dlaczego w sumie o tym piszę? A no dlatego, że w sumie dzisiaj sobie pomyślałem o tym, że w sumie mógłbym sobie organizować plany na wpisy takim narzędziem. Tym bardziej, że jest ono darmowe i w standardzie repozytorium, które zakładamy na githubie.<br />
+Mam nawet plan, żeby Wam opisać &#8222;work-flow&#8221; moich wpisów z zastosowaniem tego, ale to już materiał na przyszły wpis. Gorąco zachęcam Was do korzystania z tego narzędzia, szczególnie, że jest to idealne narzędzie do pracy grupowej (np. na studiach).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WordPress + Github = działa?</title>
+		<link>http://192.168.0.102/2016/02/16/wordpress-github-dziala/</link>
+		
+		<dc:creator><![CDATA[Laser]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2016 15:33:55 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Blog - Technika]]></category>
+		<category><![CDATA[Informacje o stronie]]></category>
+		<guid isPermaLink="false">http://pgaluszka.pl/?p=1209</guid>
+
+					<description><![CDATA[Cześć, jako, że ostatnio mój dostawca hostingu &#8222;sprezentował&#8221; mi fakturę, której sumy nie było szans, żebym przyjął postanowiłem szukać nowego rozwiązania. Na szczęście udało mi się takie znaleźć. Nie jest ono idealne, ale jak ktoś chce pojechał na &#8222;cebulaka&#8221; to takie rozwiązanie jest idealne bo koszt wszystkiego to tylko kilka wolnych chwil Waszego czasu. Jednak [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img class="size-medium wp-image-1212 alignleft" src="http://pgaluszka.pl/wp-content/uploads/2016/02/wordpress-logo-github-logo-crushed-1038x500-300x145.png" alt="wordpress-logo-github-logo-crushed-1038x500" width="300" height="145" />Cześć, jako, że ostatnio mój dostawca hostingu &#8222;sprezentował&#8221; mi fakturę, której sumy nie było szans, żebym przyjął postanowiłem szukać nowego rozwiązania. Na szczęście udało mi się takie znaleźć. Nie jest ono idealne, ale jak ktoś chce pojechał na &#8222;cebulaka&#8221; to takie rozwiązanie jest idealne bo koszt wszystkiego to tylko kilka wolnych chwil Waszego czasu. Jednak nie będę wyprzedzał faktów i wszystko postaram się opowiedzieć po kolei.<span id="more-1209"></span><br />
+<strong>WordPress</strong><br />
+Czym jest wordpress zapytacie&#8230; a no to ja się posłużę wikipedią w tym przypadku:</p>
+<blockquote><p>WordPress – system zarządzania treścią zaprojektowany głównie do obsługi blogów. Napisany jest w języku PHP, wykorzystuje bazę danych MySQL. Rozpowszechniany jest na licencji GNU General Public License i jest dostępny bezpłatnie.</p></blockquote>
+<p>A tutaj jeszcze drugi cytat dotyczący tego czym jest system zarządzania treścią:</p>
+<blockquote><p>System zarządzania treścią (ang. Content Management System, CMS) – oprogramowanie pozwalające na łatwe utworzenie serwisu WWW oraz jego późniejszą aktualizację i rozbudowę przez redakcyjny personel nietechniczny.<br />
+Kształtowanie treści i sposobu ich prezentacji w serwisie internetowym zarządzanym przez CMS odbywa się za pomocą prostych w obsłudze interfejsów użytkownika, zazwyczaj w postaci stron WWW zawierających rozbudowane formularze i moduły.</p></blockquote>
+<p>Skoro już wszystko jest jasne to wiecie, że taki właśnie wordpress potrzebuje jakiejś bazy danych. Wszystko byłoby fajnie, gdyby nie fakt, że Github, na którym hostuję teraz swoją stronę wcale nie daje mi takiej możliwości. Można by się pokusić o kilka innych ciekawych operacji, aby scenariusz z bazą się udał, ale chciałem dosłownie, aby dosłownie cała strona stała na Githubie, a nie była rozproszona po całych internetach.<br />
+<strong>Github </strong><br />
+To teraz znowu trochę teorii&#8230; czyli dowiedzmy się czym jest Github. Oczywiście posłużę się Wikipedią znowu:</p>
+<blockquote><p>GitHub – hostingowy serwis internetowy przeznaczony dla projektów programistycznych wykorzystujących system kontroli wersji Git. Stworzony został przy wykorzystaniu frameworka Ruby on Rails i języka Erlang. Serwis działa od kwietnia 2008 roku. W kwietniu 2011 ogłoszono, iż GitHub obsługuje 2 miliony repozytoriów. Github udostępnia darmowy hosting programów open source oraz płatne prywatne repozytoria.</p></blockquote>
+<p>Czyli jak możecie przeczytać powyżej&#8230; tutaj się trzyma repozytoria kodu. Warto wspomnieć, że jest to chyba najpopularniejsze rozwiązanie obecnie. Co prawda jest jeszcze BitBucket, ale to nie o nim teraz mowa. No dobra, skoro trzyma się tam kod to jaki problem trzymać stronę internetową&#8230;? A no taki, że jakbyśmy wrzucili ją na Githuba ot tak to zobaczymy jej kod, a nie zobaczymy efektu końcowego w postaci wygenerowanego HTMLa dla przeglądarki internetowej, która będzie mogła sobie zinterpretować ten kod i wywalić nam na ekran jakieś wodotryski.<br />
+<strong>Github Pages</strong><br />
+Github Pages to taki wymysł, który pozwala Wam hostować stronę Waszego projektu na serwerach githhuba. W dużym skrócie piszecie tę stronę trochę jakbyście pisali kod Waszej aplikacji. Zajrzeć możecie tutaj: <a href="https://pages.github.com/">https://pages.github.com/</a> i zobaczyć o co kaman. Ja postaram się Wam opowiedzieć co i jak tam wygląda (trochę bez szczegółów bo nie musiałem się zagłębiać daleko na potrzeby tego przypadku). Po wejściu na stronę tego projektu i przeczytaniu podstawowego FAQ dowiadujemy się, że możemy korzystać z gotowej wygenerowanej strony, możemy pracować lokalnie u siebie, a później zrobić pusha i wrzucić sobie stronę na Githuba. I tutaj wchodzi mały problem bo możemy hostować strony, które są HTMLem&#8230; A wiemy, że WordPress jest w PHP&#8230; no i jeszcza ta baza danych, której ten potwór wymaga&#8230;<br />
+<img class="size-medium wp-image-1213 aligncenter" src="http://pgaluszka.pl/wp-content/uploads/2016/02/github.pages-300x180.jpg" alt="github.pages" width="300" height="180" /><br />
+Przeszukując tę stronę znalazłem coś takiego jak Jeckyll, który współpracuje z tymi stronami. Nawet znalazłem wtyczki, które w teorii przeniosłyby mi moją stronę na Githuba i tam mógłbym sobie hostować stronę na Jeckyllu. To rozwiązanie miało jeden minus, który byłem w stanie przeżyć &#8211; brak CMSowego podejścia. Nie było fajnych edytorów, etc&#8230; byłem w stanie to przeżyć, naprawdę&#8230; Jednak wtyczki nie zadziałały i strona nie była możliwa do przeniesienia &#8211; fuck.<br />
+<strong>Czas nagli, strona zniknie</strong><br />
+Żeby nie utracić żadnych wpisów z mojej strony musiałem ją na szybko gdzieś przenieść. Darmowe serwisy się na mnie wypięły bo baza danych swoją wielkością już przekraczała podstawową warstwę cenową. Postanowiłem, że zainstaluję sobie xampp&#8217;a na moim systemie operacyjnym, wyeksportuję stronę w całości jako plik *.xml i będę dalej szukać rozwiązania. W czasie przeszukiwania internetu natknąłem się na program, który się nazwywa &#8222;WebCopy&#8221;. Program ten w dużym skrócie przegląda całą stronę internetową i kopiuje jej strony, grafiki, skrypty i kopiuje wszystko zgodnie ze strukturą na serwerze na dysk lokalny&#8230; jako pliki HTML. Już wiecie do czego zmierzam, prawda?<br />
+<strong>Wystarczyło uruchomić SourceTree</strong><br />
+Utworzyłem sobie więc nowe konto na GitHubie z ładną nazwą użytkownika i stworzyłem repozytorium wg instrukcji na GitHub Pages. Następnie wystarczyło podpiąć SourceTree (w sumie to używajcie czego chcecie &#8211; ja lubię SourceTree) do tego repozytorium i wrzucić pliki wygenerowane przez WebCopy. &#8211; strona już działała. Jedyny problem jaki zauważyłem &#8211; W Mozilli Firefox nie wczytywały się skrypty i grafiki&#8230; Okazało się, że wystarczy zmienić jedną opcję w WebCopy. Zmiana ścieżek z tych, które są w Windows na te z Unix&#8217;a. Strona już działała!<br />
+<img class="size-full wp-image-1214 aligncenter" src="http://pgaluszka.pl/wp-content/uploads/2016/02/logoSourceTree.png" alt="logoSourceTree" width="275" height="63" /><br />
+<strong>W sumie fajnie&#8230; ale</strong><br />
+Całkiem fajnie to działa, ale nie jestem z każdego miejsca na świecie dodać wpisu bo te wciąż robię na lokalnym serwerze u siebie i następnie generuję sobie stronkę i wrzucam ją na Githuba. Jeżeli będę bez swojego komputera to jestem w czarnej&#8230; To prawa takie rozwiązanie nie jest idealne, ale na moje potrzeby wystarcza w zupełności, a stronę mogę hostować dosłownie wszędzie i nie potrzebuję żadnych baz&#8230; nawet mogę to zrobić na Dropboxie jak się uprę.<br />
+&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Relacja z Junior IT Academic Days 2015 w Rzeszowie i Krakowie</title>
+		<link>http://192.168.0.102/2015/03/28/relacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie/</link>
+		
+		<dc:creator><![CDATA[Laser]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2015 18:07:50 +0000</pubDate>
+				<category><![CDATA[Informacje o stronie]]></category>
+		<guid isPermaLink="false">http://galuszka.it/website/?p=641</guid>
+
+					<description><![CDATA[Już niedługo na stronie pojawi się relacja z moich &#8222;odwiedzin&#8221; na konferencja z cyklu &#8222;Junior IT Acadamic Days 2015&#8221;. Byłem w Rzeszowie i Krakowie. Stay Tuned!]]></description>
+										<content:encoded><![CDATA[<p>Już niedługo na stronie pojawi się relacja z moich &#8222;odwiedzin&#8221; na konferencja z cyklu &#8222;Junior IT Acadamic Days 2015&#8221;. Byłem w Rzeszowie i Krakowie.<br />
+Stay Tuned!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zmiany na stronie</title>
+		<link>http://192.168.0.102/2015/03/05/zmiany-na-stronie/</link>
+		
+		<dc:creator><![CDATA[Laser]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 17:49:59 +0000</pubDate>
+				<category><![CDATA[Informacje o stronie]]></category>
+		<guid isPermaLink="false">http://laserus.webd.pl/website/?p=635</guid>
+
+					<description><![CDATA[Cześć! Jako, że zmieniam troszeczkę na stronie może się trochę dziwnych rzeczy dziać. Obecnie mam już nowy hosting i domenę i jestem w trakcie przenoszenia się&#8230; Problemy, które na 100{f26cddf65292f76121e923d887156d202e8155e4ee7c2cab0ed9a5095cdac568} występują: Jeżeli klikacie w link, który nie przenosi w obrębie strony to w sumie nic się nie stanie lub dostępn zostanie zablokowany &#8211; polecam linki [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Cześć!<br />
+Jako, że zmieniam troszeczkę na stronie może się trochę dziwnych rzeczy dziać.<br />
+Obecnie mam już nowy hosting i domenę i jestem w trakcie przenoszenia się&#8230;<br />
+<span id="more-635"></span>Problemy, które na 100{f26cddf65292f76121e923d887156d202e8155e4ee7c2cab0ed9a5095cdac568} występują:</p>
+<ul>
+<li>Jeżeli klikacie w link, który nie przenosi w obrębie strony to w sumie nic się nie stanie lub dostępn zostanie zablokowany &#8211; polecam linki otwierać w nowej karcie (te które prowadzą poza stronę)</li>
+</ul>
+<p>UPDATE:<br />
+Strona już została przemigrowana! Wszystko działa jak trzeba!!!! Super&#8230;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

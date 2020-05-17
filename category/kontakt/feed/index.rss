@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kontakt &#8211; Keep evolving and learn</title>
+	<atom:link href="http://192.168.0.102/category/kontakt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.102</link>
+	<description>Przemysław Gałuszka - strona prywatna</description>
+	<lastBuildDate>Sat, 01 Jun 2013 19:10:50 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>kontakt</title>
+		<link>http://192.168.0.102/2013/06/01/kontakt/</link>
+		
+		<dc:creator><![CDATA[Laser]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 19:10:50 +0000</pubDate>
+				<category><![CDATA[Kontakt]]></category>
+		<guid isPermaLink="false">http://pgaluszka.pl/?p=1570</guid>
+
+					<description><![CDATA[Ładuję&#8230;]]></description>
+										<content:encoded><![CDATA[<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdY3I99JQWxQhsZGaDlPrZcL-bFE97JT-7Dgn9-TZRfT4yPrA/viewform?embedded=true" width="760" height="1250" frameborder="0" marginwidth="0" marginheight="0">Ładuję&#8230;</iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
