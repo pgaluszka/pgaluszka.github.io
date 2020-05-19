@@ -6,20 +6,20 @@ Uri: http://192.168.0.102/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.102/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\css\dist\block-library\style.min.css
+Uri: http://192.168.0.102/wp-includes/css/dist/block-library/A.style.min.css,qver=5.4.1.pagespeed.cf._93gOJAMuK.css
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\css\dist\block-library\A.style.min.css,qver=5.4.1.pagespeed.cf._93gOJAMuK.css
 Content Type: text/css
 
-Uri: http://192.168.0.102/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\css\dist\block-library\theme.min.css
+Uri: http://192.168.0.102/wp-content/plugins/uk-cookie-consent/assets/css/A.style.css,qver=5.4.1.pagespeed.cf.A5dKzr6VmQ.css
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\plugins\uk-cookie-consent\assets\css\A.style.css,qver=5.4.1.pagespeed.cf.A5dKzr6VmQ.css
 Content Type: text/css
 
-Uri: http://192.168.0.102/wp-content/themes/twentytwelve/style.css?ver=20190507
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\themes\twentytwelve\style.css
+Uri: http://192.168.0.102/wp-content/themes/twentytwelve/A.style.css,qver=20190507.pagespeed.cf.HKXkPmK8V0.css
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\themes\twentytwelve\A.style.css,qver=20190507.pagespeed.cf.HKXkPmK8V0.css
 Content Type: text/css
 
-Uri: http://192.168.0.102/wp-content/themes/twentytwelve/css/blocks.css?ver=20190406
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\themes\twentytwelve\css\blocks.css
+Uri: http://192.168.0.102/wp-content/themes/twentytwelve/css/A.blocks.css,qver=20190406.pagespeed.cf.3GLshFD_hU.css
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\themes\twentytwelve\css\A.blocks.css,qver=20190406.pagespeed.cf.3GLshFD_hU.css
 Content Type: text/css
 
 Uri: http://192.168.0.102/wp-json/
@@ -82,6 +82,14 @@ Uri: http://192.168.0.102/category/o-mnie/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\category\o-mnie\index.htm
 Content Type: text/html
 
+Uri: http://192.168.0.102/2020/05/16/curriculum-vitae/
+File Name: D:\_Repositories\_temp_website\192.168.0.102\2020\05\16\curriculum-vitae\index.htm
+Content Type: text/html
+
+Uri: http://192.168.0.102/2019/04/01/prywatnie/
+File Name: D:\_Repositories\_temp_website\192.168.0.102\2019\04\01\prywatnie\index.htm
+Content Type: text/html
+
 Uri: http://192.168.0.102/category/kontakt/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\category\kontakt\index.htm
 Content Type: text/html
@@ -92,14 +100,6 @@ Content Type: text/html
 
 Uri: http://192.168.0.102/author/user/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\author\user\index.htm
-Content Type: text/html
-
-Uri: http://192.168.0.102/2020/05/16/curriculum-vitae/
-File Name: D:\_Repositories\_temp_website\192.168.0.102\2020\05\16\curriculum-vitae\index.htm
-Content Type: text/html
-
-Uri: http://192.168.0.102/2019/04/01/prywatnie/
-File Name: D:\_Repositories\_temp_website\192.168.0.102\2019\04\01\prywatnie\index.htm
 Content Type: text/html
 
 Uri: http://192.168.0.102/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/
@@ -134,16 +134,16 @@ Uri: http://192.168.0.102/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.102/bitnami/index.html
-File Name: D:\_Repositories\_temp_website\192.168.0.102\bitnami\index.html
+Uri: http://192.168.0.102/polityka-cookies/
+File Name: D:\_Repositories\_temp_website\192.168.0.102\polityka-cookies\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.102/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\jquery\jquery.js
+Uri: http://192.168.0.102/wp-includes/js/jquery/jquery.js,qver=1.12.4-wp.pagespeed.jm.gp20iU5FlU.js
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\jquery\jquery.js,qver=1.12.4-wp.pagespeed.jm.gp20iU5FlU.js
 Content Type: application/javascript
 
-Uri: http://192.168.0.102/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\jquery\jquery-migrate.min.js
+Uri: http://192.168.0.102/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\jquery\jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
 Content Type: application/javascript
 
 Uri: http://192.168.0.102/wp-content/uploads/2020/05/cropped-DJI_0478-HDR-3.png
@@ -154,21 +154,9 @@ Uri: http://192.168.0.102/wp-content/uploads/2020/05/12743992_1067551736620180_1
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\12743992_1067551736620180_1273775684021839701_n.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.102/wp-content/themes/twentytwelve/js/navigation.js?ver=20141205
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\themes\twentytwelve\js\navigation.js
+Uri: http://192.168.0.102/wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0+wp-content,_themes,_twentytwelve,_js,_navigation.js,qver==20141205+wp-includes,_js,_wp-embed.min.js,qver==5.4.1.pagespeed.jc.C2Qm5NHlPb.js
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0 wp-content,_themes,_twentytwelve,_js,_navigation.js,qver==20141205 wp-includes,_js,_wp-embed.min.js,qver==5.4.1.pagespeed.j.js
 Content Type: application/javascript
-
-Uri: http://192.168.0.102/wp-includes/js/wp-embed.min.js?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\wp-embed.min.js
-Content Type: application/javascript
-
-Uri: http://192.168.0.102/bitnami/images/xclose.png.pagespeed.ic.Zei43eohAv.png
-File Name: D:\_Repositories\_temp_website\192.168.0.102\bitnami\images\xclose.png.pagespeed.ic.Zei43eohAv.png
-Content Type: image/png
-
-Uri: http://192.168.0.102/bitnami/images/xcorner-logo.png.pagespeed.ic.6TukXqDtLV.png
-File Name: D:\_Repositories\_temp_website\192.168.0.102\bitnami\images\xcorner-logo.png.pagespeed.ic.6TukXqDtLV.png
-Content Type: image/png
 
 Uri: http://192.168.0.102/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-300x300.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\12743992_1067551736620180_1273775684021839701_n-300x300.jpg
@@ -354,6 +342,22 @@ Uri: http://192.168.0.102/category/o-mnie/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\category\o-mnie\feed\index.rss
 Content Type: application/rss+xml
 
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2020%2F05%2F16%2Fcurriculum-vitae%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2020%2F05%2F16%2Fcurriculum-vitae%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2019%2F04%2F01%2Fprywatnie%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2019%2F04%2F01%2Fprywatnie%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
 Uri: http://192.168.0.102/category/kontakt/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\category\kontakt\feed\index.rss
 Content Type: application/rss+xml
@@ -363,11 +367,11 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2013\06\01\kontakt\index
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2020%2F05%2F17%2Fnowe-rozdanie-na-stronie%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed.json
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-2.json
 Content Type: application/json
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2020%2F05%2F17%2Fnowe-rozdanie-na-stronie%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed.xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-2.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/author/user/feed/
@@ -377,22 +381,6 @@ Content Type: application/rss+xml
 Uri: http://192.168.0.102/author/user/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\author\user\page\2\index.htm
 Content Type: text/html
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2020%2F05%2F16%2Fcurriculum-vitae%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-1.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2020%2F05%2F16%2Fcurriculum-vitae%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-1.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2019%2F04%2F01%2Fprywatnie%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-2.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2019%2F04%2F01%2Fprywatnie%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-2.xml
-Content Type: text/xml
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2018%2F12%2F26%2Fwracam-na-twitcha-bo-zmienili-apke%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-3.json
@@ -474,24 +462,28 @@ Uri: http://192.168.0.102/page/3/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\page\3\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.102/bitnami/135xNxlogo.png.pagespeed.ic.da4-Yys2Hf.png
-File Name: D:\_Repositories\_temp_website\192.168.0.102\bitnami\135xNxlogo.png.pagespeed.ic.da4-Yys2Hf.png
-Content Type: image/png
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2Fpolityka-cookies%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-10.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2Fpolityka-cookies%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-10.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-11.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-12.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2016/08/20/unity-czy-unreal-engine-tworzenie-gry-cz-1/
@@ -507,19 +499,19 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\category\blog-main\page\
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-12.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-12.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-13.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-14.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2014/11/20/instalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp/
@@ -527,11 +519,11 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2014\11\20\instalacja-wi
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F11%2F08%2Fznowu-zolc-w-strone-kolei%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-14.json
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-15.json
 Content Type: application/json
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F11%2F08%2Fznowu-zolc-w-strone-kolei%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-14.xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-15.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2014/10/09/filmiki-na-potrzeby-windows-student-trainer/
@@ -539,11 +531,11 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2014\10\09\filmiki-na-po
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F10%2F11%2F11102014%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-15.json
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-16.json
 Content Type: application/json
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F10%2F11%2F11102014%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-15.xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-16.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2014/08/22/cos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg/
@@ -551,11 +543,11 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2014\08\22\cos-na-czym-s
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F09%2F29%2Fwylewam-pomyje-na-kolej%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-16.json
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-17.json
 Content Type: application/json
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F09%2F29%2Fwylewam-pomyje-na-kolej%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-16.xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-17.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2014/07/30/lekki-update-sytuacji-na-froncie/
@@ -603,19 +595,19 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\category\blog-main\blog-
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-17.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-17.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-18.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-19.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2015/05/17/739/
@@ -623,11 +615,11 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2015\05\17\739\index.htm
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F03%2F28%2Frelacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-19.json
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-20.json
 Content Type: application/json
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F03%2F28%2Frelacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-19.xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-20.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2015/01/23/relacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015/
@@ -635,75 +627,75 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2015\01\23\relacja-z-kon
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-20.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-20.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-21.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-21.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-22.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-22.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-23.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-23.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-24.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-24.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-25.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-25.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-26.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-26.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-27.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-27.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-28.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-28.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-29.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-29.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2013/07/04/windows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu/
@@ -715,11 +707,11 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2013\10\21\windows-8-ora
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F15%2F108%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-29.json
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-30.json
 Content Type: application/json
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F15%2F108%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-29.xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-30.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2013/07/04/ekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk/
@@ -727,59 +719,83 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\2013\07\04\ekosystem-kom
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-30.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-30.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-31.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-31.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-32.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-32.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F
+Uri: http://192.168.0.102/wp-content/uploads/2020/05/cropped-DJI_0478-HDR-3.png.pagespeed.ce.UCMesWO4vE.png
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\cropped-DJI_0478-HDR-3.png.pagespeed.ce.UCMesWO4vE.png
+Content Type: image/png
+
+Uri: http://192.168.0.102/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n.jpg.pagespeed.ic.BORTBJ1d6a.jpg
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n.jpg.pagespeed.ic.BORTBJ1d6a.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.0.102/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-300x300.jpg.pagespeed.ic.qaf4VM_urh.jpg
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-300x300.jpg.pagespeed.ic.qaf4VM_urh.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.0.102/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-150x150.jpg.pagespeed.ic.qNY7uFV9ry.jpg
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-150x150.jpg.pagespeed.ic.qNY7uFV9ry.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.0.102/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-768x768.jpg.pagespeed.ic.HJL4UFd5ET.jpg
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-768x768.jpg.pagespeed.ic.HJL4UFd5ET.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.0.102/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-624x624.jpg.pagespeed.ic.CsfjSRE70n.jpg
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-624x624.jpg.pagespeed.ic.CsfjSRE70n.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-33.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-33.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-34.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-34.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-35.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-35.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F01%2Fkontakt%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-36.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F01%2Fkontakt%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-36.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F01%2Fkontakt%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-37.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F06%2F01%2Fkontakt%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-37.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/author/user/page/3/
@@ -787,43 +803,43 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\author\user\page\3\index
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-37.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-37.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-38.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-38.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-39.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-39.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-40.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-40.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-41.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-41.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-42.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-42.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/2015/12/08/1013/
@@ -846,68 +862,20 @@ Uri: http://192.168.0.102/page/4/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\page\4\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.102/wp-login.php?redirect_to=http:%2F%2F192.168.0.102%2Fwp-admin%2F&reauth=1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-login.html
-Content Type: text/html
-
-Uri: http://192.168.0.102/wp-includes/css/dashicons.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\css\dashicons.min.css
-Content Type: text/css
-
-Uri: http://192.168.0.102/wp-includes/css/buttons.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\css\buttons.min.css
-Content Type: text/css
-
-Uri: http://192.168.0.102/wp-admin/css/forms.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\css\forms.min.css
-Content Type: text/css
-
-Uri: http://192.168.0.102/wp-admin/css/l10n.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\css\l10n.min.css
-Content Type: text/css
-
-Uri: http://192.168.0.102/wp-admin/css/login.min.css?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\css\login.min.css
-Content Type: text/css
-
-Uri: http://192.168.0.102/wp-login.php?action=lostpassword
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-login-1.html
-Content Type: text/html
-
-Uri: http://192.168.0.102/wp-includes/js/zxcvbn-async.min.js?ver=1.0
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\zxcvbn-async.min.js
-Content Type: application/javascript
-
-Uri: http://192.168.0.102/wp-admin/js/password-strength-meter.min.js?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\js\password-strength-meter.min.js
-Content Type: application/javascript
-
-Uri: http://192.168.0.102/wp-includes/js/underscore.min.js?ver=1.8.3
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\underscore.min.js
-Content Type: application/javascript
-
-Uri: http://192.168.0.102/wp-includes/js/wp-util.min.js?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\js\wp-util.min.js
-Content Type: application/javascript
-
-Uri: http://192.168.0.102/wp-admin/js/user-profile.min.js?ver=5.4.1
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\js\user-profile.min.js
-Content Type: application/javascript
-
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-42.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-42.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-43.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-43.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-44.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-44.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/category/blog-main/page/4/
@@ -915,107 +883,107 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\category\blog-main\page\
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-44.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-44.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-45.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-45.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-46.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-46.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-47.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-47.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-48.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-48.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-49.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-49.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-50.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-50.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-51.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-51.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-52.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-52.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-53.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-53.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-54.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-54.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-55.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-55.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F10%2Fopen-live-writer%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-56.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F10%2Fopen-live-writer%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-56.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F10%2Fopen-live-writer%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-57.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F10%2Fopen-live-writer%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-57.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/category/blog-main/blog-technika/page/4/
@@ -1023,43 +991,43 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\category\blog-main\blog-
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F05%2F17%2F739%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-57.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F05%2F17%2F739%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-57.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-58.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F05%2F17%2F739%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-58.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-59.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-59.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-60.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-60.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-61.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-61.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-62.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-62.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/author/user/page/4/
@@ -1067,63 +1035,39 @@ File Name: D:\_Repositories\_temp_website\192.168.0.102\author\user\page\4\index
 Content Type: text/html
 
 Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F08%2F1013%2F
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-62.json
-Content Type: application/json
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F08%2F1013%2F&format=xml
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-62.xml
-Content Type: text/xml
-
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-63.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F08%2F1013%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-63.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-64.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-64.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-65.json
 Content Type: application/json
 
-Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F&format=xml
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-65.xml
+Content Type: text/xml
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-66.json
+Content Type: application/json
+
+Uri: http://192.168.0.102/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.102%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F&format=xml
+File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-json\oembed\1.0\embed-66.xml
 Content Type: text/xml
 
 Uri: http://192.168.0.102/page/5/
 File Name: D:\_Repositories\_temp_website\192.168.0.102\page\5\index.htm
-Content Type: text/html
-
-Uri: http://192.168.0.102/wp-includes/fonts/dashicons.eot?50db0456fde2a241f005968eede3f987
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\fonts\dashicons.eot
-Content Type: application/vnd.ms-fontobject
-
-Uri: http://192.168.0.102/wp-includes/fonts/dashicons.ttf?50db0456fde2a241f005968eede3f987
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-includes\fonts\dashicons.ttf
-Content Type: font/ttf
-
-Uri: http://192.168.0.102/wp-admin/images/loading.gif
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\images\loading.gif
-Content Type: image/gif
-
-Uri: http://192.168.0.102/wp-admin/images/w-logo-blue.png?ver=20131202
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\images\w-logo-blue.png
-Content Type: image/png
-
-Uri: http://192.168.0.102/wp-admin/images/wordpress-logo.svg?ver=20131107
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-admin\images\wordpress-logo.svg
-Content Type: image/svg+xml
-
-Uri: http://192.168.0.102/wp-login.php
-File Name: D:\_Repositories\_temp_website\192.168.0.102\wp-login-2.html
 Content Type: text/html
 
 Uri: http://192.168.0.102/category/blog-main/page/5/

@@ -12,7 +12,7 @@
 	<atom:link href="http://192.168.0.102/category/portfolio/portfolio-windows/feed/" rel="self" type="application/rss+xml" />
 	<link>http://192.168.0.102</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
-	<lastBuildDate>Sun, 01 Dec 2013 14:28:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 May 2020 18:04:25 +0000</lastBuildDate>
 	<language>pl-PL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
-		<title>Windows 8.1: Encyklepedia Powrót do Przyszłości</title>
+		<title>[Usunięto ze sklepu] Windows 8.1: Encyklepedia Powrót do Przyszłości</title>
 		<link>http://192.168.0.102/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
@@ -30,15 +30,15 @@
 		<category><![CDATA[Portfolio - Windows 8.1]]></category>
 		<guid isPermaLink="false">http://laserus.webd.pl/website/?p=262</guid>
 
-					<description><![CDATA[Witam wszystkim. Mam dla Was kolejną aplikację mojego autorstwa. Jest to Encyklopedia Powrót do Przyszłości. Oparłem swoją aplikację o szablon Hub app (XAML/C#). Troszeczkę zmodyfikowałem ten szablon na swoje potrzeby. Myślę, że graficznie bardzo ładnie się prezentuje ta aplikacja. Znajdziecie tam informacje, które każdy fan serialu powinien znać. Opis ze sklepu Windows: &#8222;Aplikacja, która zawiera [&#8230;]]]></description>
+					<description><![CDATA[Witam wszystkim. Mam dla Was kolejną aplikację mojego autorstwa. Jest to Encyklopedia Powrót do Przyszłości. Oparłem swoją aplikację o szablon Hub app (XAML/C#). Troszeczkę zmodyfikowałem ten szablon na swoje potrzeby. Myślę, że graficznie bardzo ładnie się prezentuje ta aplikacja. Znajdziecie tam informacje, które każdy fan serialu powinien znać. Opis ze sklepu Windows: &#34;Aplikacja, która zawiera [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><div style="width: 301px" class="wp-caption alignleft"><a href="http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-powrot-do-przysz/990ec7de-fdc0-4308-80c5-df8f149a39af"><img class="   " src="http://wscont2.apps.microsoft.com/winstore/1x/939baddc-6de3-4f4e-b818-7c97edd76ec9/Screenshot.270337.100000.jpg" alt="" width="291" height="164" /></a><p class="wp-caption-text">Zdjęcie ze sklepu Windows</p></div><br />
 Witam wszystkim. Mam dla Was kolejną aplikację mojego autorstwa.<br />
 Jest to Encyklopedia Powrót do Przyszłości. Oparłem swoją aplikację o szablon Hub app (XAML/C#). Troszeczkę zmodyfikowałem ten szablon na swoje potrzeby. Myślę, że graficznie bardzo ładnie się prezentuje ta aplikacja. Znajdziecie tam informacje, które każdy fan serialu powinien znać.<br />
 Opis ze sklepu Windows:<br />
-&#8222;Aplikacja, która zawiera wszystkie dostępne informacje na temat serii powrót do przyszłości!<br />
-Jeżeli szukasz informacji o ulubionym aktorze czy usuniętej z filmu scenie &#8211; to jest aplikacja dla Ciebie&#8221;<br />
+&quot;Aplikacja, która zawiera wszystkie dostępne informacje na temat serii powrót do przyszłości!<br />
+Jeżeli szukasz informacji o ulubionym aktorze czy usuniętej z filmu scenie - to jest aplikacja dla Ciebie&quot;<br />
 Link:<br />
-<a href="http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-powrot-do-przysz/990ec7de-fdc0-4308-80c5-df8f149a39af">http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-powrot-do-przysz/990ec7de-fdc0-4308-80c5-df8f149a39af</a></p>
+<a href="http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-powrot-do-przysz/990ec7de-fdc0-4308-80c5-df8f149a39af"><a href="http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-powrot-do-przysz/990ec7de-fdc0-4308-80c5-df8f149a39af">http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-powrot-do-przysz/990ec7de-fdc0-4308-80c5-df8f149a39af</a></a></p>
 ]]></content:encoded>
 					
 		
@@ -60,9 +60,9 @@ Link:<br />
 W aplikacji znajdziecie wiele informacji związanych z samym serialem, nagrodami oraz twórcami. Oprócz tego znajdziecie informacje na temat każdego odcinka, bohaterów serialu oraz aktorów w nim grających.<br />
 <strong>Update:</strong> Aplikacja została poprawiona pod względem tekstów. Poprawiłem kilka literówek oraz rating wiekowy aplikacji na 16+. Niestety serial o przygotowywaniu meta amfetaminy nie jest odpowiedni dla osób młodszych.<br />
 Opis ze sklepu Windows:<br />
-&#8222;Aplikacja o Breaking Bad!<br />
+"Aplikacja o Breaking Bad!<br />
 Tutaj znajdziesz szybko i łatwo informacje o ulubionym bohaterze, odcinku, aktorze.<br />
-Znajdziesz tutaj również informacje o samym serialu, jakie nagrody zdobył i coś o twórcach serialu!&#8221;<br />
+Znajdziesz tutaj również informacje o samym serialu, jakie nagrody zdobył i coś o twórcach serialu!"<br />
 link do aplikacji:<br />
 <a href="http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-breaking-bad/e6d63b59-1ae4-4030-836c-abe5ab29cf30">http://apps.microsoft.com/windows/pl-pl/app/encyklopedia-breaking-bad/e6d63b59-1ae4-4030-836c-abe5ab29cf30</a></p>
 ]]></content:encoded>
@@ -81,9 +81,9 @@ link do aplikacji:<br />
 		<category><![CDATA[Portfolio - Windows 8]]></category>
 		<guid isPermaLink="false">http://pgaluszka.pl/website/?p=108</guid>
 
-					<description><![CDATA[Aplikacja ta zawiera przepisy na napoje z wykorzystaniem alkoholu. Przepisy były zbierane przez wiele lat. Jest to typowa książka z przepisami na różne rodzaje alkoholu. Jeżeli macie ochotę spróbować czegoś nowego to ta aplikacja jest dla WAS! Taki opis znajdą Państwo w Sklepie Windows pod moją nową aplikacją. Aplikacja &#8222;Alkohole Polskie&#8221; jest aplikacją zawierającą przepisy [&#8230;]]]></description>
+					<description><![CDATA[Aplikacja ta zawiera przepisy na napoje z wykorzystaniem alkoholu. Przepisy były zbierane przez wiele lat. Jest to typowa książka z przepisami na różne rodzaje alkoholu. Jeżeli macie ochotę spróbować czegoś nowego to ta aplikacja jest dla WAS! Taki opis znajdą Państwo w Sklepie Windows pod moją nową aplikacją. Aplikacja "Alkohole Polskie" jest aplikacją zawierającą przepisy [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><a href="http://apps.microsoft.com/windows/pl-pl/app/alkohole-polskie/29684825-6f25-49c2-9541-e36f41832ae6" target="_blank" rel="noopener noreferrer"><img class="alignleft" src="http://wscont2.apps.microsoft.com/winstore/1x/2900d59c-1965-4ea8-97eb-6b2629799d57/Screenshot.209509.100000.jpg" alt="" width="273" height="154" /></a>Aplikacja ta zawiera przepisy na napoje z wykorzystaniem alkoholu. Przepisy były zbierane przez wiele lat. Jest to typowa książka z przepisami na różne rodzaje alkoholu. Jeżeli macie ochotę spróbować czegoś nowego to ta aplikacja jest dla WAS!<br />
-Taki opis znajdą Państwo w Sklepie Windows pod moją nową aplikacją. Aplikacja &#8222;Alkohole Polskie&#8221; jest aplikacją zawierającą przepisy na różnego rodzaju alkohole.<br />
+Taki opis znajdą Państwo w Sklepie Windows pod moją nową aplikacją. Aplikacja "Alkohole Polskie" jest aplikacją zawierającą przepisy na różnego rodzaju alkohole.<br />
 Przypominam, że alkohol w świetle prawa Rzeczypospolitej jest dozwolony tylko dla osób pełnoletnich.<br />
 Link do aplikacji:<br />
 <a href="http://apps.microsoft.com/windows/pl-pl/app/alkohole-polskie/29684825-6f25-49c2-9541-e36f41832ae6" target="_blank" rel="noopener noreferrer">http://apps.microsoft.com/windows/pl-pl/app/alkohole-polskie/29684825-6f25-49c2-9541-e36f41832ae6</a></p>
@@ -103,8 +103,8 @@ Link do aplikacji:<br />
 		<category><![CDATA[Portfolio - Windows 8]]></category>
 		<guid isPermaLink="false">http://pgaluszka.pl/website/?p=79</guid>
 
-					<description><![CDATA[Jest to książka kucharska poświęcona tylko potrawom z makaronu. Znajdą w niej Państwo 15 przepisów na tylko takie potrawy. Przepisy są proste w wykonaniu, a efekty starań &#8211; smaczne! &#160; Link: http://apps.microsoft.com/windows/pl-PL/app/15-potraw-z-makaronu-w-15-minut/90c00a0b-6a75-4e4d-8f63-41af3d562cc0]]></description>
-										<content:encoded><![CDATA[<p><a href="http://apps.microsoft.com/windows/pl-PL/app/15-potraw-z-makaronu-w-15-minut/90c00a0b-6a75-4e4d-8f63-41af3d562cc0" target="_blank" rel="noopener noreferrer"><img class="alignleft" src="http://wscont2.apps.microsoft.com/winstore/1x/9ab4e960-667e-4658-a798-ace5b8b15421/Screenshot.172314.100000.jpg" alt="" width="164" height="92" /></a>Jest to książka kucharska poświęcona tylko potrawom z makaronu. Znajdą w niej Państwo 15 przepisów na tylko takie potrawy. Przepisy są proste w wykonaniu, a efekty starań &#8211; smaczne!<br />
+					<description><![CDATA[Jest to książka kucharska poświęcona tylko potrawom z makaronu. Znajdą w niej Państwo 15 przepisów na tylko takie potrawy. Przepisy są proste w wykonaniu, a efekty starań - smaczne! &#160; Link: http://apps.microsoft.com/windows/pl-PL/app/15-potraw-z-makaronu-w-15-minut/90c00a0b-6a75-4e4d-8f63-41af3d562cc0]]></description>
+										<content:encoded><![CDATA[<p><a href="http://apps.microsoft.com/windows/pl-PL/app/15-potraw-z-makaronu-w-15-minut/90c00a0b-6a75-4e4d-8f63-41af3d562cc0" target="_blank" rel="noopener noreferrer"><img class="alignleft" src="http://wscont2.apps.microsoft.com/winstore/1x/9ab4e960-667e-4658-a798-ace5b8b15421/Screenshot.172314.100000.jpg" alt="" width="164" height="92" /></a>Jest to książka kucharska poświęcona tylko potrawom z makaronu. Znajdą w niej Państwo 15 przepisów na tylko takie potrawy. Przepisy są proste w wykonaniu, a efekty starań - smaczne!<br />
 &nbsp;<br />
 Link:<br />
 <a href="http://apps.microsoft.com/windows/pl-PL/app/15-potraw-z-makaronu-w-15-minut/90c00a0b-6a75-4e4d-8f63-41af3d562cc0" target="_blank" rel="noopener noreferrer">http://apps.microsoft.com/windows/pl-PL/app/15-potraw-z-makaronu-w-15-minut/90c00a0b-6a75-4e4d-8f63-41af3d562cc0</a></p>
@@ -136,7 +136,7 @@ Link:<br />
 		
 			</item>
 		<item>
-		<title>Windows 8: Informator o mieście Kalety</title>
+		<title>[Usunięto] Windows 8: Informator o mieście Kalety</title>
 		<link>http://192.168.0.102/2013/05/30/windows-8-informator-o-miescie-kalety/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
@@ -150,7 +150,7 @@ Link:<br />
 										<content:encoded><![CDATA[<p><a href="http://apps.microsoft.com/windows/pl-PL/app/informator-o-miescie-kalety/a01f438d-5811-43c9-8eff-bc3d89a2e461" target="_blank" rel="noopener noreferrer"><img class="alignleft" src="http://wscont2.apps.microsoft.com/winstore/1x/c613b66d-d7d4-4849-8bc4-9b951b0040ac/Screenshot.140269.1000000.jpg" alt="" width="164" height="92" /></a>Jest to moja druga aplikacja na system Windows 8. Aplikacja jest e-bookiem, informatorem o moim rodzinnym mieście, Kalety. W aplikacji tej znajdą Państwo wiele przydatnych informacji na temat Kalet.<br />
 &nbsp;<br />
 Link:<br />
-<a href="http://apps.microsoft.com/windows/en-ph/app/informator-o-miescie-kalety/a01f438d-5811-43c9-8eff-bc3d89a2e461" target="_blank" rel="noopener noreferrer">http://apps.microsoft.com/windows/en-ph/app/informator-o-miescie-kalety/a01f438d-5811-43c9-8eff-bc3d89a2e461</a></p>
+<a href="http://apps.microsoft.com/windows/en-ph/app/informator-o-miescie-kalety/a01f438d-5811-43c9-8eff-bc3d89a2e461" target="_blank" rel="noopener noreferrer"><a href="http://apps.microsoft.com/windows/en-ph/app/informator-o-miescie-kalety/a01f438d-5811-43c9-8eff-bc3d89a2e461">http://apps.microsoft.com/windows/en-ph/app/informator-o-miescie-kalety/a01f438d-5811-43c9-8eff-bc3d89a2e461</a></a></p>
 ]]></content:encoded>
 					
 		
