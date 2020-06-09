@@ -1,1088 +1,1088 @@
-Uri: http://192.168.0.101/
+Uri: https://pgaluszka.github.io/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/feed/
+Uri: https://pgaluszka.github.io/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/wp-includes/css/dist/block-library/A.style.min.css,qver=5.4.1.pagespeed.cf._93gOJAMuK.css
+Uri: https://pgaluszka.github.io/wp-includes/css/dist/block-library/A.style.min.css,qver=5.4.1.pagespeed.cf._93gOJAMuK.css
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-includes\css\dist\block-library\A.style.min.css,qver=5.4.1.pagespeed.cf._93gOJAMuK.css
 Content Type: text/css
 
-Uri: http://192.168.0.101/wp-content/plugins/uk-cookie-consent/assets/css/A.style.css,qver=5.4.1.pagespeed.cf.A5dKzr6VmQ.css
+Uri: https://pgaluszka.github.io/wp-content/plugins/uk-cookie-consent/assets/css/A.style.css,qver=5.4.1.pagespeed.cf.A5dKzr6VmQ.css
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\plugins\uk-cookie-consent\assets\css\A.style.css,qver=5.4.1.pagespeed.cf.A5dKzr6VmQ.css
 Content Type: text/css
 
-Uri: http://192.168.0.101/wp-content/themes/twentytwelve/A.style.css,qver=20190507.pagespeed.cf.HKXkPmK8V0.css
+Uri: https://pgaluszka.github.io/wp-content/themes/twentytwelve/A.style.css,qver=20190507.pagespeed.cf.HKXkPmK8V0.css
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\themes\twentytwelve\A.style.css,qver=20190507.pagespeed.cf.HKXkPmK8V0.css
 Content Type: text/css
 
-Uri: http://192.168.0.101/wp-content/themes/twentytwelve/css/A.blocks.css,qver=20190406.pagespeed.cf.3GLshFD_hU.css
+Uri: https://pgaluszka.github.io/wp-content/themes/twentytwelve/css/A.blocks.css,qver=20190406.pagespeed.cf.3GLshFD_hU.css
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\themes\twentytwelve\css\A.blocks.css,qver=20190406.pagespeed.cf.3GLshFD_hU.css
 Content Type: text/css
 
-Uri: http://192.168.0.101/wp-json/
+Uri: https://pgaluszka.github.io/wp-json/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\index.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/xmlrpc.php?rsd
+Uri: https://pgaluszka.github.io/xmlrpc.php?rsd
 File Name: D:\_Repositories\_temp_website\192.168.0.101\xmlrpc.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-includes/wlwmanifest.xml
+Uri: https://pgaluszka.github.io/wp-includes/wlwmanifest.xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-includes\wlwmanifest.xml
 Content Type: application/xml
 
-Uri: http://192.168.0.101/category/blog-main/
+Uri: https://pgaluszka.github.io/category/blog-main/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/blog-prywatny/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-prywatny/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-prywatny\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/blog-technika/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-technika/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-technika\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/informacje/
+Uri: https://pgaluszka.github.io/category/informacje/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\informacje\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/
+Uri: https://pgaluszka.github.io/category/portfolio/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows/windows8/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows/windows8/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows\windows8\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows/windows81/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows/windows81/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows\windows81\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows-phone/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows-phone/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows-phone\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows-phone/windowsphone7/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows-phone/windowsphone7/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows-phone\windowsphone7\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows-phone/windowsphone8/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows-phone/windowsphone8/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows-phone\windowsphone8\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/o-mnie/
+Uri: https://pgaluszka.github.io/category/o-mnie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\o-mnie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2020/05/16/curriculum-vitae/
+Uri: https://pgaluszka.github.io/2020/05/16/curriculum-vitae/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2020\05\16\curriculum-vitae\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2019/04/01/prywatnie/
+Uri: https://pgaluszka.github.io/2019/04/01/prywatnie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2019\04\01\prywatnie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/kontakt/
+Uri: https://pgaluszka.github.io/category/kontakt/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\kontakt\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2020/05/17/nowe-rozdanie-na-stronie/
+Uri: https://pgaluszka.github.io/2020/05/17/nowe-rozdanie-na-stronie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2020\05\17\nowe-rozdanie-na-stronie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/author/user/
+Uri: https://pgaluszka.github.io/author/user/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/
+Uri: https://pgaluszka.github.io/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2018\12\26\wracam-na-twitcha-bo-zmienili-apke\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2018/12/25/zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge/
+Uri: https://pgaluszka.github.io/2018/12/25/zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2018\12\25\zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2018/11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/
+Uri: https://pgaluszka.github.io/2018/11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2018\11\23\moj-nowy-stary-flow-nagrywania-gier-na-youtube\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2018/08/15/game-pass-czy-to-ma-sens/
+Uri: https://pgaluszka.github.io/2018/08/15/game-pass-czy-to-ma-sens/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2018\08\15\game-pass-czy-to-ma-sens\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2018/07/29/windows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko/
+Uri: https://pgaluszka.github.io/2018/07/29/windows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2018\07\29\windows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2018/01/01/1661/
+Uri: https://pgaluszka.github.io/2018/01/01/1661/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2018\01\01\1661\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2017/12/28/1649/
+Uri: https://pgaluszka.github.io/2017/12/28/1649/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2017\12\28\1649\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/page/2/
+Uri: https://pgaluszka.github.io/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/polityka-cookies/
+Uri: https://pgaluszka.github.io/polityka-cookies/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\polityka-cookies\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-includes/js/jquery/jquery.js,qver=1.12.4-wp.pagespeed.jm.gp20iU5FlU.js
+Uri: https://pgaluszka.github.io/wp-includes/js/jquery/jquery.js,qver=1.12.4-wp.pagespeed.jm.gp20iU5FlU.js
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-includes\js\jquery\jquery.js,qver=1.12.4-wp.pagespeed.jm.gp20iU5FlU.js
 Content Type: application/javascript
 
-Uri: http://192.168.0.101/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
+Uri: https://pgaluszka.github.io/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-includes\js\jquery\jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js
 Content Type: application/javascript
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/cropped-DJI_0478-HDR-3.png
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/cropped-DJI_0478-HDR-3.png
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\cropped-DJI_0478-HDR-3.png
 Content Type: image/png
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n.jpg.pagespeed.ic.BORTBJ1d6a.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n.jpg.pagespeed.ic.BORTBJ1d6a.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n.jpg.pagespeed.ic.BORTBJ1d6a.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0+wp-content,_themes,_twentytwelve,_js,_navigation.js,qver==20141205+wp-includes,_js,_wp-embed.min.js,qver==5.4.1.pagespeed.jc.C2Qm5NHlPb.js
+Uri: https://pgaluszka.github.io/wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0+wp-content,_themes,_twentytwelve,_js,_navigation.js,qver==20141205+wp-includes,_js,_wp-embed.min.js,qver==5.4.1.pagespeed.jc.C2Qm5NHlPb.js
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0 wp-content,_themes,_twentytwelve,_js,_navigation.js,qver==20141205 wp-includes,_js,_wp-embed.min.js,qver==5.4.1.pagespeed.j.js
 Content Type: application/javascript
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-300x300.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-300x300.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\12743992_1067551736620180_1273775684021839701_n-300x300.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-150x150.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-150x150.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\12743992_1067551736620180_1273775684021839701_n-150x150.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-768x768.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-768x768.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\12743992_1067551736620180_1273775684021839701_n-768x768.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-624x624.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/12743992_1067551736620180_1273775684021839701_n-624x624.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\12743992_1067551736620180_1273775684021839701_n-624x624.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/category/blog-main/feed/
+Uri: https://pgaluszka.github.io/category/blog-main/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2017/09/03/upgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa/
+Uri: https://pgaluszka.github.io/2017/09/03/upgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2017\09\03\upgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2017/08/20/skladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy/
+Uri: https://pgaluszka.github.io/2017/08/20/skladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2017\08\20\skladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/page/2/
+Uri: https://pgaluszka.github.io/category/blog-main/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/blog-prywatny/feed/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-prywatny/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-prywatny\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2017/05/01/intel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet/
+Uri: https://pgaluszka.github.io/2017/05/01/intel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2017\05\01\intel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/09/18/dzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac/
+Uri: https://pgaluszka.github.io/2016/09/18/dzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\09\18\dzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/11/08/znowu-zolc-w-strone-kolei/
+Uri: https://pgaluszka.github.io/2014/11/08/znowu-zolc-w-strone-kolei/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\11\08\znowu-zolc-w-strone-kolei\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/10/11/11102014/
+Uri: https://pgaluszka.github.io/2014/10/11/11102014/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\10\11\11102014\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/09/29/wylewam-pomyje-na-kolej/
+Uri: https://pgaluszka.github.io/2014/09/29/wylewam-pomyje-na-kolej/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\09\29\wylewam-pomyje-na-kolej\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/blog-prywatny/page/2/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-prywatny/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-prywatny\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/blog-technika/feed/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-technika/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-technika\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/category/blog-main/blog-technika/page/2/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-technika/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-technika\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/informacje/feed/
+Uri: https://pgaluszka.github.io/category/informacje/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\informacje\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2016/10/11/zglaszanie-problemow-na-githubie/
+Uri: https://pgaluszka.github.io/2016/10/11/zglaszanie-problemow-na-githubie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\10\11\zglaszanie-problemow-na-githubie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/02/16/wordpress-github-dziala/
+Uri: https://pgaluszka.github.io/2016/02/16/wordpress-github-dziala/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\02\16\wordpress-github-dziala\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2015/03/28/relacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie/
+Uri: https://pgaluszka.github.io/2015/03/28/relacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\03\28\relacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2015/03/05/zmiany-na-stronie/
+Uri: https://pgaluszka.github.io/2015/03/05/zmiany-na-stronie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\03\05\zmiany-na-stronie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2014/01/14/windows-phone-8-krolewna-sniezka/
+Uri: https://pgaluszka.github.io/2014/01/14/windows-phone-8-krolewna-sniezka/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\01\14\windows-phone-8-krolewna-sniezka\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/01/09/windows-phone-8-jas-i-malgosia/
+Uri: https://pgaluszka.github.io/2014/01/09/windows-phone-8-jas-i-malgosia/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\01\09\windows-phone-8-jas-i-malgosia\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/01/06/windows-phone-8-moze-dieta/
+Uri: https://pgaluszka.github.io/2014/01/06/windows-phone-8-moze-dieta/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\01\06\windows-phone-8-moze-dieta\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/01/06/windows-phone-8-nie-jaram/
+Uri: https://pgaluszka.github.io/2014/01/06/windows-phone-8-nie-jaram/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\01\06\windows-phone-8-nie-jaram\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/12/23/windows-phone-8-polska-gwiazdka/
+Uri: https://pgaluszka.github.io/2013/12/23/windows-phone-8-polska-gwiazdka/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\12\23\windows-phone-8-polska-gwiazdka\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/12/20/aplikacja-windows-phone-8/
+Uri: https://pgaluszka.github.io/2013/12/20/aplikacja-windows-phone-8/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\12\20\aplikacja-windows-phone-8\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/
+Uri: https://pgaluszka.github.io/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\12\01\windows-8-1-encyklepedia-powrot-do-przyszlosci\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/11/15/windows-8-1-encyklopedia-breaking-bad/
+Uri: https://pgaluszka.github.io/2013/11/15/windows-8-1-encyklopedia-breaking-bad/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\11\15\windows-8-1-encyklopedia-breaking-bad\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/07/15/108/
+Uri: https://pgaluszka.github.io/2013/07/15/108/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\07\15\108\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/06/05/windows-8-15-potraw-z-makaronu-w-15-minut/
+Uri: https://pgaluszka.github.io/2013/06/05/windows-8-15-potraw-z-makaronu-w-15-minut/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\06\05\windows-8-15-potraw-z-makaronu-w-15-minut\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/page/2/
+Uri: https://pgaluszka.github.io/category/portfolio/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2013/06/03/windows-8-salatki-w-15-minut/
+Uri: https://pgaluszka.github.io/2013/06/03/windows-8-salatki-w-15-minut/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\06\03\windows-8-salatki-w-15-minut\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/05/30/windows-8-informator-o-miescie-kalety/
+Uri: https://pgaluszka.github.io/2013/05/30/windows-8-informator-o-miescie-kalety/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\05\30\windows-8-informator-o-miescie-kalety\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/05/30/windows-8-przepisy-cioci-krysi/
+Uri: https://pgaluszka.github.io/2013/05/30/windows-8-przepisy-cioci-krysi/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\05\30\windows-8-przepisy-cioci-krysi\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows/windows8/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows/windows8/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows\windows8\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows/windows81/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows/windows81/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows\windows81\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows-phone/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows-phone/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows-phone\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2013/05/30/windowsphone-8-przepisy-cioci-krysi/
+Uri: https://pgaluszka.github.io/2013/05/30/windowsphone-8-przepisy-cioci-krysi/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\05\30\windowsphone-8-przepisy-cioci-krysi\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/05/30/windowsphone-7-5-color-generator/
+Uri: https://pgaluszka.github.io/2013/05/30/windowsphone-7-5-color-generator/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\05\30\windowsphone-7-5-color-generator\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows-phone/windowsphone7/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows-phone/windowsphone7/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows-phone\windowsphone7\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/category/portfolio/portfolio-windows-phone/windowsphone8/feed/
+Uri: https://pgaluszka.github.io/category/portfolio/portfolio-windows-phone/windowsphone8/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\portfolio\portfolio-windows-phone\windowsphone8\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/category/o-mnie/feed/
+Uri: https://pgaluszka.github.io/category/o-mnie/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\o-mnie\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F16%2Fcurriculum-vitae%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F16%2Fcurriculum-vitae%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F16%2Fcurriculum-vitae%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F16%2Fcurriculum-vitae%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2019%2F04%2F01%2Fprywatnie%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2019%2F04%2F01%2Fprywatnie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-1.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2019%2F04%2F01%2Fprywatnie%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2019%2F04%2F01%2Fprywatnie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-1.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/category/kontakt/feed/
+Uri: https://pgaluszka.github.io/category/kontakt/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\kontakt\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/2013/06/01/kontakt/
+Uri: https://pgaluszka.github.io/2013/06/01/kontakt/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\06\01\kontakt\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F17%2Fnowe-rozdanie-na-stronie%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F17%2Fnowe-rozdanie-na-stronie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-2.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F17%2Fnowe-rozdanie-na-stronie%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2020%2F05%2F17%2Fnowe-rozdanie-na-stronie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-2.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/author/user/feed/
+Uri: https://pgaluszka.github.io/author/user/feed/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\feed\index.rss
 Content Type: application/rss+xml
 
-Uri: http://192.168.0.101/author/user/page/2/
+Uri: https://pgaluszka.github.io/author/user/page/2/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\page\2\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F26%2Fwracam-na-twitcha-bo-zmienili-apke%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F26%2Fwracam-na-twitcha-bo-zmienili-apke%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-3.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F26%2Fwracam-na-twitcha-bo-zmienili-apke%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F26%2Fwracam-na-twitcha-bo-zmienili-apke%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-3.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F25%2Fzbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F25%2Fzbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-4.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F25%2Fzbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F12%2F25%2Fzbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-4.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F11%2F23%2Fmoj-nowy-stary-flow-nagrywania-gier-na-youtube%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F11%2F23%2Fmoj-nowy-stary-flow-nagrywania-gier-na-youtube%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-5.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F11%2F23%2Fmoj-nowy-stary-flow-nagrywania-gier-na-youtube%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F11%2F23%2Fmoj-nowy-stary-flow-nagrywania-gier-na-youtube%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-5.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F08%2F15%2Fgame-pass-czy-to-ma-sens%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F08%2F15%2Fgame-pass-czy-to-ma-sens%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-6.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F08%2F15%2Fgame-pass-czy-to-ma-sens%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F08%2F15%2Fgame-pass-czy-to-ma-sens%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-6.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F07%2F29%2Fwindows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F07%2F29%2Fwindows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-7.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F07%2F29%2Fwindows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F07%2F29%2Fwindows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-7.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F01%2F01%2F1661%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F01%2F01%2F1661%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-8.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F01%2F01%2F1661%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2018%2F01%2F01%2F1661%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-8.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F12%2F28%2F1649%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F12%2F28%2F1649%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-9.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F12%2F28%2F1649%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F12%2F28%2F1649%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-9.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2017/03/27/it-academic-day-2017-w-bielsku-bialej/
+Uri: https://pgaluszka.github.io/2017/03/27/it-academic-day-2017-w-bielsku-bialej/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2017\03\27\it-academic-day-2017-w-bielsku-bialej\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/12/23/github-gist-po-co-i-na-co-to/
+Uri: https://pgaluszka.github.io/2016/12/23/github-gist-po-co-i-na-co-to/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\12\23\github-gist-po-co-i-na-co-to\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/11/01/instalacja-ubuntu-16-10-na-maszynie-wirtualnej/
+Uri: https://pgaluszka.github.io/2016/11/01/instalacja-ubuntu-16-10-na-maszynie-wirtualnej/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\11\01\instalacja-ubuntu-16-10-na-maszynie-wirtualnej\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/09/27/za-duzo-adresow-email-za-duzo-chmur-na-pliki/
+Uri: https://pgaluszka.github.io/2016/09/27/za-duzo-adresow-email-za-duzo-chmur-na-pliki/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\09\27\za-duzo-adresow-email-za-duzo-chmur-na-pliki\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/08/24/zmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree/
+Uri: https://pgaluszka.github.io/2016/08/24/zmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\08\24\zmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/page/3/
+Uri: https://pgaluszka.github.io/page/3/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\page\3\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2Fpolityka-cookies%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2Fpolityka-cookies%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-10.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2Fpolityka-cookies%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2Fpolityka-cookies%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-10.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-11.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F09%2F03%2Fupgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-11.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-300x300.jpg.pagespeed.ic.qaf4VM_urh.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-300x300.jpg.pagespeed.ic.qaf4VM_urh.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-300x300.jpg.pagespeed.ic.qaf4VM_urh.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-150x150.jpg.pagespeed.ic.qNY7uFV9ry.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-150x150.jpg.pagespeed.ic.qNY7uFV9ry.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-150x150.jpg.pagespeed.ic.qNY7uFV9ry.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-768x768.jpg.pagespeed.ic.HJL4UFd5ET.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-768x768.jpg.pagespeed.ic.HJL4UFd5ET.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-768x768.jpg.pagespeed.ic.HJL4UFd5ET.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-624x624.jpg.pagespeed.ic.CsfjSRE70n.jpg
+Uri: https://pgaluszka.github.io/wp-content/uploads/2020/05/x12743992_1067551736620180_1273775684021839701_n-624x624.jpg.pagespeed.ic.CsfjSRE70n.jpg
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-content\uploads\2020\05\x12743992_1067551736620180_1273775684021839701_n-624x624.jpg.pagespeed.ic.CsfjSRE70n.jpg
 Content Type: image/jpeg
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-12.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F08%2F20%2Fskladnia-markdown-dlaczego-stalem-sie-jej-fanem-i-do-czego-mi-sluzy%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-12.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2016/08/20/unity-czy-unreal-engine-tworzenie-gry-cz-1/
+Uri: https://pgaluszka.github.io/2016/08/20/unity-czy-unreal-engine-tworzenie-gry-cz-1/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\08\20\unity-czy-unreal-engine-tworzenie-gry-cz-1\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/02/24/gameplay-tom-clancys-the-division-open-beta/
+Uri: https://pgaluszka.github.io/2016/02/24/gameplay-tom-clancys-the-division-open-beta/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\02\24\gameplay-tom-clancys-the-division-open-beta\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/page/3/
+Uri: https://pgaluszka.github.io/category/blog-main/page/3/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\page\3\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-13.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F05%2F01%2Fintel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-13.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-14.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F18%2Fdzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-14.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2014/11/20/instalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp/
+Uri: https://pgaluszka.github.io/2014/11/20/instalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\11\20\instalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F08%2Fznowu-zolc-w-strone-kolei%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F08%2Fznowu-zolc-w-strone-kolei%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-15.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F08%2Fznowu-zolc-w-strone-kolei%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F08%2Fznowu-zolc-w-strone-kolei%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-15.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2014/10/09/filmiki-na-potrzeby-windows-student-trainer/
+Uri: https://pgaluszka.github.io/2014/10/09/filmiki-na-potrzeby-windows-student-trainer/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\10\09\filmiki-na-potrzeby-windows-student-trainer\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F11%2F11102014%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F11%2F11102014%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-16.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F11%2F11102014%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F11%2F11102014%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-16.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2014/08/22/cos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg/
+Uri: https://pgaluszka.github.io/2014/08/22/cos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\08\22\cos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F09%2F29%2Fwylewam-pomyje-na-kolej%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F09%2F29%2Fwylewam-pomyje-na-kolej%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-17.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F09%2F29%2Fwylewam-pomyje-na-kolej%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F09%2F29%2Fwylewam-pomyje-na-kolej%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-17.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2014/07/30/lekki-update-sytuacji-na-froncie/
+Uri: https://pgaluszka.github.io/2014/07/30/lekki-update-sytuacji-na-froncie/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\07\30\lekki-update-sytuacji-na-froncie\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/05/10/sprawy-sie-maja-ciekawie-code-camp-us/
+Uri: https://pgaluszka.github.io/2014/05/10/sprawy-sie-maja-ciekawie-code-camp-us/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\05\10\sprawy-sie-maja-ciekawie-code-camp-us\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/04/20/troche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele/
+Uri: https://pgaluszka.github.io/2014/04/20/troche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\04\20\troche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/01/09/jas-i-malgosia-juz-jest/
+Uri: https://pgaluszka.github.io/2014/01/09/jas-i-malgosia-juz-jest/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\01\09\jas-i-malgosia-juz-jest\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2014/01/06/kolejna-aplikacja-w-certyfikacji-i/
+Uri: https://pgaluszka.github.io/2014/01/06/kolejna-aplikacja-w-certyfikacji-i/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2014\01\06\kolejna-aplikacja-w-certyfikacji-i\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/12/20/night-of-the-living-devs-2-2013/
+Uri: https://pgaluszka.github.io/2013/12/20/night-of-the-living-devs-2-2013/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\12\20\night-of-the-living-devs-2-2013\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/12/20/it-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu/
+Uri: https://pgaluszka.github.io/2013/12/20/it-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\12\20\it-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/11/10/it-academic-day-uniwersytetu-slaskiego-2013/
+Uri: https://pgaluszka.github.io/2013/11/10/it-academic-day-uniwersytetu-slaskiego-2013/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\11\10\it-academic-day-uniwersytetu-slaskiego-2013\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2016/02/15/renderowanie-filmow-z-pomoca-blendera/
+Uri: https://pgaluszka.github.io/2016/02/15/renderowanie-filmow-z-pomoca-blendera/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2016\02\15\renderowanie-filmow-z-pomoca-blendera\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2015/12/10/open-live-writer/
+Uri: https://pgaluszka.github.io/2015/12/10/open-live-writer/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\12\10\open-live-writer\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/blog-technika/page/3/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-technika/page/3/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-technika\page\3\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-18.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F10%2F11%2Fzglaszanie-problemow-na-githubie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-18.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-19.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F16%2Fwordpress-github-dziala%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-19.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2015/05/17/739/
+Uri: https://pgaluszka.github.io/2015/05/17/739/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\05\17\739\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F28%2Frelacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F28%2Frelacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-20.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F28%2Frelacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F28%2Frelacja-z-junior-it-academic-days-2015-w-rzeszowie-i-krakowie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-20.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2015/01/23/relacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015/
+Uri: https://pgaluszka.github.io/2015/01/23/relacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\01\23\relacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-21.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F03%2F05%2Fzmiany-na-stronie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-21.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-22.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F14%2Fwindows-phone-8-krolewna-sniezka%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-22.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-23.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fwindows-phone-8-jas-i-malgosia%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-23.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-24.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-moze-dieta%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-24.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-25.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fwindows-phone-8-nie-jaram%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-25.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-26.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F23%2Fwindows-phone-8-polska-gwiazdka%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-26.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-27.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Faplikacja-windows-phone-8%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-27.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-28.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F01%2Fwindows-8-1-encyklepedia-powrot-do-przyszlosci%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-28.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-29.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F15%2Fwindows-8-1-encyklopedia-breaking-bad%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-29.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2013/07/04/windows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu/
+Uri: https://pgaluszka.github.io/2013/07/04/windows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\07\04\windows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2013/10/21/windows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze/
+Uri: https://pgaluszka.github.io/2013/10/21/windows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\10\21\windows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F15%2F108%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F15%2F108%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-30.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F15%2F108%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F15%2F108%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-30.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2013/07/04/ekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk/
+Uri: https://pgaluszka.github.io/2013/07/04/ekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2013\07\04\ekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-31.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F05%2Fwindows-8-15-potraw-z-makaronu-w-15-minut%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-31.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-32.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F03%2Fwindows-8-salatki-w-15-minut%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-32.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-33.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-informator-o-miescie-kalety%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-33.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-34.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindows-8-przepisy-cioci-krysi%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-34.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-35.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-8-przepisy-cioci-krysi%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-35.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-36.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F05%2F30%2Fwindowsphone-7-5-color-generator%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-36.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F01%2Fkontakt%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F01%2Fkontakt%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-37.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F01%2Fkontakt%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F06%2F01%2Fkontakt%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-37.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/author/user/page/3/
+Uri: https://pgaluszka.github.io/author/user/page/3/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\page\3\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-38.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2017%2F03%2F27%2Fit-academic-day-2017-w-bielsku-bialej%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-38.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-39.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F12%2F23%2Fgithub-gist-po-co-i-na-co-to%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-39.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-40.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F11%2F01%2Finstalacja-ubuntu-16-10-na-maszynie-wirtualnej%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-40.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-41.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F09%2F27%2Fza-duzo-adresow-email-za-duzo-chmur-na-pliki%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-41.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-42.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F24%2Fzmiana-przyzwyczajen-porzucilem-vs-code-i-source-tree%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-42.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/2015/12/08/1013/
+Uri: https://pgaluszka.github.io/2015/12/08/1013/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\12\08\1013\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2015/12/06/lumia-1520-windows-10-insider-fast-ring/
+Uri: https://pgaluszka.github.io/2015/12/06/lumia-1520-windows-10-insider-fast-ring/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\12\06\lumia-1520-windows-10-insider-fast-ring\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2015/09/18/2-prasowka-przeglad-informacji/
+Uri: https://pgaluszka.github.io/2015/09/18/2-prasowka-przeglad-informacji/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\09\18\2-prasowka-przeglad-informacji\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/2015/09/06/1-prasowka-przeglad-informacji-wg-laserusa/
+Uri: https://pgaluszka.github.io/2015/09/06/1-prasowka-przeglad-informacji-wg-laserusa/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\2015\09\06\1-prasowka-przeglad-informacji-wg-laserusa\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/page/4/
+Uri: https://pgaluszka.github.io/page/4/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\page\4\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-43.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F08%2F20%2Funity-czy-unreal-engine-tworzenie-gry-cz-1%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-43.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-44.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F24%2Fgameplay-tom-clancys-the-division-open-beta%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-44.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/category/blog-main/page/4/
+Uri: https://pgaluszka.github.io/category/blog-main/page/4/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\page\4\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-45.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F11%2F20%2Finstalacja-windows-8-1-na-netbooku-zaprojektowanym-dla-windows-xp%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-45.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-46.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F10%2F09%2Ffilmiki-na-potrzeby-windows-student-trainer%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-46.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-47.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F08%2F22%2Fcos-na-czym-skorzystaja-wszyscy-ktorzy-maja-slaby-zasieg%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-47.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-48.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F07%2F30%2Flekki-update-sytuacji-na-froncie%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-48.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-49.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F05%2F10%2Fsprawy-sie-maja-ciekawie-code-camp-us%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-49.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-50.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F04%2F20%2Ftroche-mnie-tu-nie-bylo-ale-dzialo-sie-wiele%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-50.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-51.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F09%2Fjas-i-malgosia-juz-jest%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-51.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-52.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2014%2F01%2F06%2Fkolejna-aplikacja-w-certyfikacji-i%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-52.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-53.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fnight-of-the-living-devs-2-2013%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-53.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-54.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F12%2F20%2Fit-academic-day-na-uniwerystecie-mikolaja-kopernika-w-toruniu%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-54.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-55.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F11%2F10%2Fit-academic-day-uniwersytetu-slaskiego-2013%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-55.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-56.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2016%2F02%2F15%2Frenderowanie-filmow-z-pomoca-blendera%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-56.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F10%2Fopen-live-writer%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F10%2Fopen-live-writer%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-57.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F10%2Fopen-live-writer%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F10%2Fopen-live-writer%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-57.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/category/blog-main/blog-technika/page/4/
+Uri: https://pgaluszka.github.io/category/blog-main/blog-technika/page/4/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\blog-technika\page\4\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F05%2F17%2F739%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F05%2F17%2F739%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-58.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F05%2F17%2F739%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F05%2F17%2F739%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-58.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-59.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F01%2F23%2Frelacja-z-konferencji-zapowiadajacej-windows-10-21-stycznia-2015%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-59.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-60.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fwindows-azure-czyli-chmura-obliczeniowa-ze-stajni-microsoftu%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-60.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-61.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F10%2F21%2Fwindows-8-oraz-xbox360-jest-dobrze-jest-bardzo-dobrze%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-61.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-62.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2013%2F07%2F04%2Fekosystem-komputerowy-odpowiedni-dla-mnie-subiektywny-przeglad-znanych-mi-srodowisk%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-62.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/author/user/page/4/
+Uri: https://pgaluszka.github.io/author/user/page/4/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\page\4\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F08%2F1013%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F08%2F1013%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-63.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F08%2F1013%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F08%2F1013%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-63.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-64.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F12%2F06%2Flumia-1520-windows-10-insider-fast-ring%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-64.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-65.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F18%2F2-prasowka-przeglad-informacji%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-65.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-66.json
 Content Type: application/json
 
-Uri: http://192.168.0.101/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F&format=xml
+Uri: https://pgaluszka.github.io/wp-json/oembed/1.0/embed?url=http:%2F%2F192.168.0.101%2F2015%2F09%2F06%2F1-prasowka-przeglad-informacji-wg-laserusa%2F&format=xml
 File Name: D:\_Repositories\_temp_website\192.168.0.101\wp-json\oembed\1.0\embed-66.xml
 Content Type: text/xml
 
-Uri: http://192.168.0.101/page/5/
+Uri: https://pgaluszka.github.io/page/5/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\page\5\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/category/blog-main/page/5/
+Uri: https://pgaluszka.github.io/category/blog-main/page/5/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\category\blog-main\page\5\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/author/user/page/5/
+Uri: https://pgaluszka.github.io/author/user/page/5/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\page\5\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/page/6/
+Uri: https://pgaluszka.github.io/page/6/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\page\6\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/author/user/page/6/
+Uri: https://pgaluszka.github.io/author/user/page/6/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\page\6\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/page/7/
+Uri: https://pgaluszka.github.io/page/7/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\page\7\index.htm
 Content Type: text/html
 
-Uri: http://192.168.0.101/author/user/page/7/
+Uri: https://pgaluszka.github.io/author/user/page/7/
 File Name: D:\_Repositories\_temp_website\192.168.0.101\author\user\page\7\index.htm
 Content Type: text/html
 

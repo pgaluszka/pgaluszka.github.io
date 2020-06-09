@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portfolio &#8211; Windows 8.1 &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.101/category/portfolio/portfolio-windows/windows81/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.101</link>
+	<atom:link href="https://pgaluszka.github.io/category/portfolio/portfolio-windows/windows81/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pgaluszka.github.io</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Tue, 19 May 2020 18:03:38 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>[Usunięto ze sklepu] Windows 8.1: Encyklepedia Powrót do Przyszłości</title>
-		<link>http://192.168.0.101/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/</link>
+		<link>https://pgaluszka.github.io/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 01 Dec 2013 14:28:56 +0000</pubDate>
@@ -46,7 +46,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8.1: Encyklopedia Breaking Bad</title>
-		<link>http://192.168.0.101/2013/11/15/windows-8-1-encyklopedia-breaking-bad/</link>
+		<link>https://pgaluszka.github.io/2013/11/15/windows-8-1-encyklopedia-breaking-bad/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Fri, 15 Nov 2013 16:32:35 +0000</pubDate>

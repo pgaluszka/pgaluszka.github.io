@@ -9,8 +9,8 @@
 
 <channel>
 	<title>O mnie &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.101/category/o-mnie/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.101</link>
+	<atom:link href="https://pgaluszka.github.io/category/o-mnie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pgaluszka.github.io</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Tue, 09 Jun 2020 18:03:13 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>CURRICULUM VITAE</title>
-		<link>http://192.168.0.101/2020/05/16/curriculum-vitae/</link>
+		<link>https://pgaluszka.github.io/2020/05/16/curriculum-vitae/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sat, 16 May 2020 01:15:00 +0000</pubDate>
@@ -103,7 +103,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Prywatnie</title>
-		<link>http://192.168.0.101/2019/04/01/prywatnie/</link>
+		<link>https://pgaluszka.github.io/2019/04/01/prywatnie/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 20:11:00 +0000</pubDate>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.101/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.101</link>
+	<atom:link href="https://pgaluszka.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pgaluszka.github.io</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Tue, 09 Jun 2020 18:03:13 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>Nowe rozdanie na stronie</title>
-		<link>http://192.168.0.101/2020/05/17/nowe-rozdanie-na-stronie/</link>
+		<link>https://pgaluszka.github.io/2020/05/17/nowe-rozdanie-na-stronie/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 17 May 2020 16:07:36 +0000</pubDate>
@@ -48,7 +48,7 @@
 			</item>
 		<item>
 		<title>CURRICULUM VITAE</title>
-		<link>http://192.168.0.101/2020/05/16/curriculum-vitae/</link>
+		<link>https://pgaluszka.github.io/2020/05/16/curriculum-vitae/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sat, 16 May 2020 01:15:00 +0000</pubDate>
@@ -130,7 +130,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Prywatnie</title>
-		<link>http://192.168.0.101/2019/04/01/prywatnie/</link>
+		<link>https://pgaluszka.github.io/2019/04/01/prywatnie/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 20:11:00 +0000</pubDate>
@@ -154,7 +154,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Wracam na Twitch&#039;a&#8230; Bo zmienili apkę</title>
-		<link>http://192.168.0.101/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/</link>
+		<link>https://pgaluszka.github.io/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Wed, 26 Dec 2018 19:04:33 +0000</pubDate>
@@ -212,7 +212,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Zbudowanie własnego serwera RTMP – Dlaczego? Bo mogę!</title>
-		<link>http://192.168.0.101/2018/12/25/zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge/</link>
+		<link>https://pgaluszka.github.io/2018/12/25/zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Tue, 25 Dec 2018 10:37:47 +0000</pubDate>
@@ -318,7 +318,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Mój nowy/stary flow nagrywania gier na Youtube</title>
-		<link>http://192.168.0.101/2018/11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/</link>
+		<link>https://pgaluszka.github.io/2018/11/23/moj-nowy-stary-flow-nagrywania-gier-na-youtube/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Fri, 23 Nov 2018 13:13:22 +0000</pubDate>
@@ -341,7 +341,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Game Pass &#8211; czy to ma sens?</title>
-		<link>http://192.168.0.101/2018/08/15/game-pass-czy-to-ma-sens/</link>
+		<link>https://pgaluszka.github.io/2018/08/15/game-pass-czy-to-ma-sens/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Wed, 15 Aug 2018 14:30:49 +0000</pubDate>
@@ -364,7 +364,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Windows Insider &#8211; Nie boli i w sumie jest całkiem spoko</title>
-		<link>http://192.168.0.101/2018/07/29/windows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko/</link>
+		<link>https://pgaluszka.github.io/2018/07/29/windows-insider-nie-boli-i-w-sumie-jest-calkiem-spoko/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 29 Jul 2018 11:55:56 +0000</pubDate>
@@ -398,7 +398,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Xbox One S w moim domu</title>
-		<link>http://192.168.0.101/2018/01/01/1661/</link>
+		<link>https://pgaluszka.github.io/2018/01/01/1661/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 01 Jan 2018 19:55:47 +0000</pubDate>
@@ -442,7 +442,7 @@ Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ ora
 			</item>
 		<item>
 		<title>Evernote &#8211; dlaczego nie OneNote?</title>
-		<link>http://192.168.0.101/2017/12/28/1649/</link>
+		<link>https://pgaluszka.github.io/2017/12/28/1649/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Thu, 28 Dec 2017 19:25:39 +0000</pubDate>
