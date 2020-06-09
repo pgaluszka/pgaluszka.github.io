@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portfolio &#8211; Windows &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.102/category/portfolio/portfolio-windows/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.102</link>
+	<atom:link href="http://192.168.0.101/category/portfolio/portfolio-windows/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.101</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Tue, 19 May 2020 18:04:25 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>[Usunięto ze sklepu] Windows 8.1: Encyklepedia Powrót do Przyszłości</title>
-		<link>http://192.168.0.102/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/</link>
+		<link>http://192.168.0.101/2013/12/01/windows-8-1-encyklepedia-powrot-do-przyszlosci/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 01 Dec 2013 14:28:56 +0000</pubDate>
@@ -46,7 +46,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8.1: Encyklopedia Breaking Bad</title>
-		<link>http://192.168.0.102/2013/11/15/windows-8-1-encyklopedia-breaking-bad/</link>
+		<link>http://192.168.0.101/2013/11/15/windows-8-1-encyklopedia-breaking-bad/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Fri, 15 Nov 2013 16:32:35 +0000</pubDate>
@@ -72,7 +72,7 @@ link do aplikacji:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8: Alkohole Polskie</title>
-		<link>http://192.168.0.102/2013/07/15/108/</link>
+		<link>http://192.168.0.101/2013/07/15/108/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 15 Jul 2013 17:12:24 +0000</pubDate>
@@ -94,7 +94,7 @@ Link do aplikacji:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8: 15 potraw z makaronu w 15 minut</title>
-		<link>http://192.168.0.102/2013/06/05/windows-8-15-potraw-z-makaronu-w-15-minut/</link>
+		<link>http://192.168.0.101/2013/06/05/windows-8-15-potraw-z-makaronu-w-15-minut/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Wed, 05 Jun 2013 10:16:04 +0000</pubDate>
@@ -115,7 +115,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8: Sałatki w 15 minut</title>
-		<link>http://192.168.0.102/2013/06/03/windows-8-salatki-w-15-minut/</link>
+		<link>http://192.168.0.101/2013/06/03/windows-8-salatki-w-15-minut/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 03 Jun 2013 11:54:20 +0000</pubDate>
@@ -137,7 +137,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8: Informator o mieście Kalety</title>
-		<link>http://192.168.0.102/2013/05/30/windows-8-informator-o-miescie-kalety/</link>
+		<link>http://192.168.0.101/2013/05/30/windows-8-informator-o-miescie-kalety/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Thu, 30 May 2013 16:47:51 +0000</pubDate>
@@ -158,7 +158,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows 8: Przepisy Cioci Krysi</title>
-		<link>http://192.168.0.102/2013/05/30/windows-8-przepisy-cioci-krysi/</link>
+		<link>http://192.168.0.101/2013/05/30/windows-8-przepisy-cioci-krysi/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Thu, 30 May 2013 16:43:30 +0000</pubDate>

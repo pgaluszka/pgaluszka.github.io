@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Blog &#8211; Prywatny &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.102/category/blog-main/blog-prywatny/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.102</link>
+	<atom:link href="http://192.168.0.101/category/blog-main/blog-prywatny/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.101</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Sun, 17 May 2020 16:07:36 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>Nowe rozdanie na stronie</title>
-		<link>http://192.168.0.102/2020/05/17/nowe-rozdanie-na-stronie/</link>
+		<link>http://192.168.0.101/2020/05/17/nowe-rozdanie-na-stronie/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 17 May 2020 16:07:36 +0000</pubDate>
@@ -48,7 +48,7 @@
 			</item>
 		<item>
 		<title>Wracam na Twitch&#039;a&#8230; Bo zmienili apkę</title>
-		<link>http://192.168.0.102/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/</link>
+		<link>http://192.168.0.101/2018/12/26/wracam-na-twitcha-bo-zmienili-apke/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Wed, 26 Dec 2018 19:04:33 +0000</pubDate>
@@ -106,7 +106,7 @@
 			</item>
 		<item>
 		<title>Zbudowanie własnego serwera RTMP – Dlaczego? Bo mogę!</title>
-		<link>http://192.168.0.102/2018/12/25/zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge/</link>
+		<link>http://192.168.0.101/2018/12/25/zbudowanie-wlasnego-serwera-rtmp-dlaczego-bo-moge/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Tue, 25 Dec 2018 10:37:47 +0000</pubDate>
@@ -212,7 +212,7 @@
 			</item>
 		<item>
 		<title>Xbox One S w moim domu</title>
-		<link>http://192.168.0.102/2018/01/01/1661/</link>
+		<link>http://192.168.0.101/2018/01/01/1661/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 01 Jan 2018 19:55:47 +0000</pubDate>
@@ -256,7 +256,7 @@
 			</item>
 		<item>
 		<title>Upgrade mojego daily drivera czyli popraw Pan sobie działanie swojego laptopa</title>
-		<link>http://192.168.0.102/2017/09/03/upgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa/</link>
+		<link>http://192.168.0.101/2017/09/03/upgrade-mojego-daily-drivera-czyli-popraw-pan-sobie-dzialanie-swojego-laptopa/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 03 Sep 2017 12:00:28 +0000</pubDate>
@@ -281,7 +281,7 @@ końców już wybrałem sobie dysk twardy, zamówiłem go i czekałem. Dysk przy
 			</item>
 		<item>
 		<title>Intel HD Graphics w laptopie MSI &#8211; Jak sprawić, że chcesz kupić nowy sprzęt</title>
-		<link>http://192.168.0.102/2017/05/01/intel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet/</link>
+		<link>http://192.168.0.101/2017/05/01/intel-hd-graphics-w-laptopie-msi-jak-sprawic-ze-chcesz-kupic-nowy-sprzet/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 01 May 2017 15:43:30 +0000</pubDate>
@@ -314,7 +314,7 @@ Intel aktualizując sterowniki nie pomyślał o tym na jakich matrycach i na jak
 			</item>
 		<item>
 		<title>Dzień, w którym nic się nie chce&#8230; tylko odpoczywać.</title>
-		<link>http://192.168.0.102/2016/09/18/dzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac/</link>
+		<link>http://192.168.0.101/2016/09/18/dzien-w-ktorym-nic-sie-nie-chce-tylko-odpoczywac/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sun, 18 Sep 2016 16:57:28 +0000</pubDate>
@@ -335,7 +335,7 @@ Pamiętajcie, że równie ważne jak praca czy imprezowanie jest też taki zwyk�
 			</item>
 		<item>
 		<title>Znowu żółć w stronę kolei</title>
-		<link>http://192.168.0.102/2014/11/08/znowu-zolc-w-strone-kolei/</link>
+		<link>http://192.168.0.101/2014/11/08/znowu-zolc-w-strone-kolei/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sat, 08 Nov 2014 21:08:29 +0000</pubDate>
@@ -357,7 +357,7 @@ O czystości toalet nie mówię....</p>
 			</item>
 		<item>
 		<title>Informacje z dnia 11/10/2014</title>
-		<link>http://192.168.0.102/2014/10/11/11102014/</link>
+		<link>http://192.168.0.101/2014/10/11/11102014/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sat, 11 Oct 2014 10:25:36 +0000</pubDate>
@@ -377,7 +377,7 @@ Przy okazji mam zamiar pokazać to na płatnej subskrypcji. Zastanawiam się ró
 			</item>
 		<item>
 		<title>Wylewam pomyje na kolej&#8230;</title>
-		<link>http://192.168.0.102/2014/09/29/wylewam-pomyje-na-kolej/</link>
+		<link>http://192.168.0.101/2014/09/29/wylewam-pomyje-na-kolej/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 29 Sep 2014 13:15:04 +0000</pubDate>

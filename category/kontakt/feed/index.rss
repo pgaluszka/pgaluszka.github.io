@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kontakt &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.102/category/kontakt/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.102</link>
+	<atom:link href="http://192.168.0.101/category/kontakt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.101</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Tue, 19 May 2020 18:02:29 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>Kontakt</title>
-		<link>http://192.168.0.102/2013/06/01/kontakt/</link>
+		<link>http://192.168.0.101/2013/06/01/kontakt/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sat, 01 Jun 2013 19:10:50 +0000</pubDate>

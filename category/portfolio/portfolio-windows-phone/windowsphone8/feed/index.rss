@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portofolio &#8211; Windows Phone 8 &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.102/category/portfolio/portfolio-windows-phone/windowsphone8/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.102</link>
+	<atom:link href="http://192.168.0.101/category/portfolio/portfolio-windows-phone/windowsphone8/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.101</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Tue, 14 Jan 2014 12:10:45 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>[Usunięto] Windows Phone 8: Królewna Śnieżka</title>
-		<link>http://192.168.0.102/2014/01/14/windows-phone-8-krolewna-sniezka/</link>
+		<link>http://192.168.0.101/2014/01/14/windows-phone-8-krolewna-sniezka/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Tue, 14 Jan 2014 12:10:45 +0000</pubDate>
@@ -44,7 +44,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows Phone 8: Jaś i Małgosia</title>
-		<link>http://192.168.0.102/2014/01/09/windows-phone-8-jas-i-malgosia/</link>
+		<link>http://192.168.0.101/2014/01/09/windows-phone-8-jas-i-malgosia/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Thu, 09 Jan 2014 15:29:39 +0000</pubDate>
@@ -69,7 +69,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows Phone 8: może dieta?</title>
-		<link>http://192.168.0.102/2014/01/06/windows-phone-8-moze-dieta/</link>
+		<link>http://192.168.0.101/2014/01/06/windows-phone-8-moze-dieta/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 06 Jan 2014 20:43:00 +0000</pubDate>
@@ -91,7 +91,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows Phone 8: Nie jaram!</title>
-		<link>http://192.168.0.102/2014/01/06/windows-phone-8-nie-jaram/</link>
+		<link>http://192.168.0.101/2014/01/06/windows-phone-8-nie-jaram/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 06 Jan 2014 20:37:33 +0000</pubDate>
@@ -114,7 +114,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows Phone 8: Polska Gwiazdka</title>
-		<link>http://192.168.0.102/2013/12/23/windows-phone-8-polska-gwiazdka/</link>
+		<link>http://192.168.0.101/2013/12/23/windows-phone-8-polska-gwiazdka/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 23 Dec 2013 10:13:32 +0000</pubDate>
@@ -136,7 +136,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] Windows Phone 8: Pomocy!</title>
-		<link>http://192.168.0.102/2013/12/20/aplikacja-windows-phone-8/</link>
+		<link>http://192.168.0.101/2013/12/20/aplikacja-windows-phone-8/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Fri, 20 Dec 2013 12:44:14 +0000</pubDate>
@@ -158,7 +158,7 @@ Link:<br />
 			</item>
 		<item>
 		<title>[Usunięto] WindowsPhone 8: Przepisy Cioci Krysi</title>
-		<link>http://192.168.0.102/2013/05/30/windowsphone-8-przepisy-cioci-krysi/</link>
+		<link>http://192.168.0.101/2013/05/30/windowsphone-8-przepisy-cioci-krysi/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Thu, 30 May 2013 16:38:50 +0000</pubDate>

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>O mnie &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.102/category/o-mnie/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.102</link>
+	<atom:link href="http://192.168.0.101/category/o-mnie/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.101</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
-	<lastBuildDate>Tue, 19 May 2020 17:54:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2020 18:03:13 +0000</lastBuildDate>
 	<language>pl-PL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>CURRICULUM VITAE</title>
-		<link>http://192.168.0.102/2020/05/16/curriculum-vitae/</link>
+		<link>http://192.168.0.101/2020/05/16/curriculum-vitae/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Sat, 16 May 2020 01:15:00 +0000</pubDate>
@@ -42,48 +42,57 @@
 --- B2B Technical Support Engineer (2.01.2019 - obecnie)   </p>
 <p><span id="more-1500"></span></p>
 <p><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2666.png" alt="♦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Lionbridge Poland sp. z o.o., Warszawa<br />
---- Test Associate 1 w dziale Games Testing Unit (14.03.2016 – 30.06.2016)<br />
---- Test Associate 2 w dziale Games Testing Unit (1.07.2016 – 27.01.2017)<br />
+--- Software Test Engineer w dziale Games Testing Unit (6.11.2017 - 20.12.2019)<br />
 --- Test Associate 3 w dziale Games Testing Unit (28.01.2017 – 5.11.2017)<br />
---- Software Test Engineer w dziale Games Testing Unit (6.11.2017 - 20.12.2019)  </p>
+--- Test Associate 2 w dziale Games Testing Unit (1.07.2016 – 27.01.2017)<br />
+--- Test Associate 1 w dziale Games Testing Unit (14.03.2016 – 30.06.2016)  </p>
+<p><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2666.png" alt="♦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Microsoft sp. z o.o., Warszawa (2011 - 2016):<br />
+--- Administrator portalów: Geekclub.pl, Channel9, MSDN, Technet (19.05.2014 - 8.02.2016),<br />
+--- Zarządzanie kanałami social media, administracja Live Streamów (19.05.2014 - 8.02.2016),<br />
+--- Prelegent konferencji oraz szkoleniowiec (19.05.2014 - 8.02.2016)<br />
+--- Tester aplikacji Windows 8/8.1 (1.04.2014 - 30.06.2014)<br />
+--- Windows Student Trainer (1.09.2013 - 31.05.2014)<br />
+--- Microsoft Student Consultant (27.06.2013 - 19.05.2014)<br />
+--- Microsoft Student Partner (30.11.2012 - 27.06.2013)<br />
+--- Szkoleniowiec w programie &quot;Szkoła Nowych Technologii&quot; w ramach praktyk zawodowych (01.11.2011 - 31.05.2012)</p>
 <p><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2666.png" alt="♦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Langdale Hotel &amp; Spa, Langdale:<br />
 --- kelner w restauracji &quot;Purdey's&quot; i barze &quot;Hobson's&quot; (28.06.2012 - 31.08.2012)  </p>
 <p><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2666.png" alt="♦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Uniwersytet Śląski, Katowice:<br />
 --- aktywny członek Koła Naukowego Informatyków, grupa .NET UŚ (11.10.2010 - 18.05.2014)<br />
---- świadczenie usług asystenta studenta niepełnosprawnego (2.12.2010 - 6.02.2011)<br />
---- członek Koła Naukowego Informatyków, akademia BlackBerry (01.02.2012 - 30.11.2012)  </p>
+--- członek Koła Naukowego Informatyków, akademia BlackBerry (01.02.2012 - 30.11.2012)<br />
+--- świadczenie usług asystenta studenta niepełnosprawnego (2.12.2010 - 6.02.2011)  </p>
 <p><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/2666.png" alt="♦" class="wp-smiley" style="height: 1em; max-height: 1em;" /> PPHU Wor-Pak, Kalety:<br />
---- szkolenie w zakresie organizacji pracy w firmie<br />
---- szkolenie BHP w zakresie pracy przy maszynach produkcyjnych<br />
+--- praca fizyczna przy maszynach produkcyjnych (okresy wakacji w latach 2008 - 2010)<br />
 --- prace przy konserwacji instalacji teleinformatycznych (okresy wakacji w latach 2008 - 2010)<br />
---- praca przy maszynach produkcyjnych (okresy wakacji w latach 2008 - 2010)  </p>
+--- szkolenie w zakresie organizacji pracy w firmie<br />
+--- szkolenie BHP w zakresie pracy przy maszynach produkcyjnych  </p>
+<p><strong>■ Umiejętności:</strong><br />
+Programowanie strukturalne i obiektowe w językach Pascal, Delphi, Java, C++ oraz C#, tworzenie natywnych aplikacji na urządzenia Android, Windows 10 i Windows 10 Mobile (IDE: Android Studio, Visual Studio) oraz podstawowa znajomość framework’a Xamarin, tworzenie testów automatycznych gier w języku Python, znajomość oprogramowania do raportowania błędów, zarządzania projektami, pracy grupowej oraz hostowania kodu takich jak Bugzilla, YouTrack, JIRA, Confluence, Team Foundation Server, GitHub, GitLab. Podstawowa znajomość programów Corel Draw oraz Adobe Photoshop, tworzenie grafiki oraz animacji trójwymiarowej w programie Blender oraz 3D Studio Max, tworzenie i renderowanie materiałów wideo w programach Sony Vegas Pro oraz Blender. Konfigurowanie usług obliczeniowych, webowych oraz bazodanowych w chmurze Microsoft Azure. Biegłe posługiwanie się systemami operacyjnymi z rodziny Windows (od Windows 95 do Windows 10), posługiwanie się systemami operacyjnymi z rodziny Linux w stopniu średnio zaawansowanym, biegłe posługiwanie się oprogramowaniem użytkowym, narzędziowym oraz biurowym. Konfiguracja sprzętu i oprogramowania oraz diagnozowanie przyczyn ich nieprawidłowego działania, projektowania i wykonywania komputerowej sieci lokalnej, prawo jazdy kat. B.  </p>
 <p><strong>■ Szkolenia, kursy, certyfikaty, konferencje:</strong><br />
-» udział w &quot;Opera University Tour 2010&quot; (18.11.2010)<br />
-» certyfikat ukończenia kursu z przedmiotu &quot;E-urzędnik&quot; (01.03.2011)<br />
-» pomoc przy organizacji oraz udział w konferencji &quot;Game Day 2011&quot; (15.04.2011)<br />
-» zaświadczenie uczestnictwa w programie &quot;Uniwersytet Ernst &amp; Young&quot; (03.06.2011)<br />
+» prelegent na wydarzeniach &quot;Akademia Duckie Deck&quot; - nauka programowania z Minecraft (16/17/24.01.2016)<br />
+» prelegent na wydarzeniu &quot;Duckie Deck Kids' Fest&quot; - nauka podstaw programowania dla dzieci (31.05.2015)<br />
+» pomoc przy organizacji finałów krajowych światowego konkursu &quot;Imagine Cup&quot; w latach 2013-2015<br />
+» prelegent cyklu wydarzeń &quot;IT Academic Days&quot; w latach 2013-2014<br />
+» prelegent na wydarzeniu &quot;Code Camp Gry&quot; na Uniwersytecie Zielonogórskim (29.05.2014)<br />
+» uczestnik &quot;Code Camp Gry&quot; na Uniwersytecie Śląskim (10.05.2014)<br />
+» udział w &quot;I Otwartym Kongresie FLOOS&quot; (27.04.2012)<br />
+» uczestnictwo w konferencji &quot;Noc z technologią 2012&quot; organizowanym przez firmę Microsoft sp. z o.o. (10.03.2012) oraz pomoc przy organizacji w roku 2014 (21.03.2014)<br />
+» uczestnictwo w konferencji &quot;BlackBerry DevCon Europe 2012&quot; w Amsterdamie (7-8.02.2012)<br />
 » współorganizacja  konferencji &quot;IT Academic Day&quot; na Uniwersytecie Śląskim w latach 2011-2013<br />
 » uczestnictwo w &quot;CodeCamp Windows Phone 7&quot; na Uniwersytecie Śląskim (3.12.2012)<br />
-» uczestnictwo w konferencji &quot;BlackBerry DevCon Europe 2012&quot; w Amsterdamie (7-8.02.2012)<br />
-» uczestnictwo w konferencji &quot;Noc z technologią 2012&quot; organizowanym przez firmę Microsoft sp. z o.o. (10.03.2012) oraz pomoc przy organizacji w roku 2014 (21.03.2014)<br />
-» udział w &quot;I Otwartym Kongresie FLOOS&quot; (27.04.2012)<br />
-» uczestnik &quot;Code Camp Gry&quot; na Uniwersytecie Śląskim (10.05.2014)<br />
-» prelegent na wydarzeniu &quot;Code Camp Gry&quot; na Uniwersytecie Zielonogórskim (29.05.2014)<br />
-» prelegent cyklu wydarzeń &quot;IT Academic Days&quot; w latach 2013-2014<br />
-» pomoc przy organizacji finałów krajowych światowego konkursu &quot;Imagine Cup&quot; w latach 2013-2015<br />
-» prelegent na wydarzeniu &quot;Duckie Deck Kids' Fest&quot; - nauka podstaw programowania dla dzieci (31.05.2015)<br />
-» prelegent na wydarzeniach &quot;Akademia Duckie Deck&quot; - nauka programowania z Minecraft (16/17/24.01.2016)  </p>
+» uczestnitnik programu &quot;Uniwersytet Ernst &amp; Young&quot; (03.06.2011)<br />
+» pomoc przy organizacji oraz udział w konferencji &quot;Game Day 2011&quot; (15.04.2011)<br />
+» certyfikat ukończenia kursu z przedmiotu &quot;E-urzędnik&quot; (01.03.2011)<br />
+» udział w &quot;Opera University Tour 2010&quot; (18.11.2010)  </p>
 <p><strong>■ Osiągnięcia:</strong><br />
-» uczestnictwo w programie &quot;Commenius&quot; (prowadzenie zajęć z podstaw informatyki w języku angielskim w Republice Federalnej Niemiec (Hamburg) oraz Republice Czeskiej (Olomouc)) (2009 - 2010)<br />
+» opublikowany kurs z podstaw programowania na platformie Microsoft Virtual Academy (13.03.2015)<br />
 » uzyskanie dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie technik informatyk (2010)<br />
-» opublikowany kurs z podstaw programowania na platformie Microsoft Virtual Academy (13.03.2015)  </p>
-<p><strong>■ Umiejętności:</strong><br />
-Prawo jazdy kat. B, biegłe posługiwanie się systemami operacyjnymi z rodziny Windows (od Windows 95 do Windows 10), posługiwanie się systemami operacyjnymi z rodziny Linux w stopniu średnio zaawansowanym, biegłe posługiwanie się oprogramowaniem użytkowym, narzędziowym oraz biurowym, umiejętności potrzebne do konfiguracji sprzętu i oprogramowania, umiejętności potrzebne do projektowania i wykonywania komputerowej sieci lokalnej, ustalanie przyczyn wadliwego działania systemu komputerowego, wykonywanie operacji wymiany kart i modułów  urządzeń techniki komputerowej, posługiwanie się dokumentacją zawodową w języku polskim i angielskim, udzielanie pierwszej pomocy poszkodowanym w wypadkach przy pracy, znajomość HTML 4 oraz HTML 5, znajomość  podstaw programowania strukturalnego i obiektowego w językach Pascal, Delphi, Java, C++ oraz C#, znajomość programów Corel Draw oraz Adobe Photoshop, umiejętności potrzebne do tworzenia grafiki oraz animacji trójwymiarowej w programie Blender oraz 3D Studio Max, umiejętności renderowania materiałów wideo w programach Sony Vegas Pro oraz Blender, konfigurowanie usług obliczeniowych, webowych oraz bazodanowych na chmurze Microsoft Azure.  </p>
+» uczestnictwo w programie &quot;Commenius&quot; (prowadzenie zajęć z podstaw informatyki w języku angielskim w Republice Federalnej Niemiec (Hamburg) oraz Republice Czeskiej (Olomouc)) (2009 - 2010)  </p>
 <p><strong>■ Języki obce:</strong><br />
 » j. angielski (biegle w mowie i piśmie), biegłe posługiwanie się językiem technicznym<br />
 » j. niemiecki (znajomość w stopniu podstawowym)  </p>
 <p><strong>■ Zainteresowania:</strong><br />
-» szeroko pojęte IT<br />
+» szeroko pojęte IT - informatyka oraz urządzenia elektroniczne<br />
 » muzyka rockowa i metalowa<br />
 » literatura fantasy oraz science fiction<br />
 » kultura wschodu  </p>
@@ -94,7 +103,7 @@ Prawo jazdy kat. B, biegłe posługiwanie się systemami operacyjnymi z rodziny 
 			</item>
 		<item>
 		<title>Prywatnie</title>
-		<link>http://192.168.0.102/2019/04/01/prywatnie/</link>
+		<link>http://192.168.0.101/2019/04/01/prywatnie/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Mon, 01 Apr 2019 20:11:00 +0000</pubDate>

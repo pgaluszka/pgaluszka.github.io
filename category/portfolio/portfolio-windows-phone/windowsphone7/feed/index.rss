@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Portfolio &#8211; Windows Phone 7 &#8211; Keep evolving and learn</title>
-	<atom:link href="http://192.168.0.102/category/portfolio/portfolio-windows-phone/windowsphone7/feed/" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.102</link>
+	<atom:link href="http://192.168.0.101/category/portfolio/portfolio-windows-phone/windowsphone7/feed/" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.101</link>
 	<description>Przemysław Gałuszka - strona prywatna</description>
 	<lastBuildDate>Thu, 30 May 2013 16:34:30 +0000</lastBuildDate>
 	<language>pl-PL</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>[Usunięto] WindowsPhone 7.5: Color Generator</title>
-		<link>http://192.168.0.102/2013/05/30/windowsphone-7-5-color-generator/</link>
+		<link>http://192.168.0.101/2013/05/30/windowsphone-7-5-color-generator/</link>
 		
 		<dc:creator><![CDATA[Laser]]></dc:creator>
 		<pubDate>Thu, 30 May 2013 16:34:30 +0000</pubDate>
