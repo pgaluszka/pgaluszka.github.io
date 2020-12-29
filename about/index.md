@@ -1,2 +1,1 @@
-O mnie - glowna
-===============
+# o mnie - index
