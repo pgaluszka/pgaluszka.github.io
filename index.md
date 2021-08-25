@@ -11,5 +11,5 @@ Poniżej znajdziecie coś na kształt "menu" - dzięki niemu będziecie mogli zn
 3 | O stronie  
 4 | Archiwum  
 
- ### Ostatnie wpisy  
+### Ostatnie wpisy  
  • 2021-08-25: Tytuł wpisu  
