@@ -12,4 +12,4 @@ Poniżej znajdziecie coś na kształt "menu" - dzięki niemu będziecie mogli zn
 4 | Archiwum  
 
  ### Ostatnie wpisy  
- • : Tytuł wpisu
+ • 2021-08-25: Tytuł wpisu  
