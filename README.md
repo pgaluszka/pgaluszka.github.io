@@ -1,1 +1,3 @@
-# pgaluszka.github.io
+# Przemysław Gałuszka  
+## strona prywatna  
+
