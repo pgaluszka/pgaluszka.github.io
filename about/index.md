@@ -1,1 +1,0 @@
-# o mnie - index
