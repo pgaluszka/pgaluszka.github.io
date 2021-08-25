@@ -1,2 +1,4 @@
 title: Keep learning and evolve
-theme: jekyll-theme-slate
+theme: jekyll-theme-slate 
+description: > # this means to ignore newlines until "baseurl:"
+  Przemyslaw Galuszka - strona prywatna
