@@ -1,3 +1,2 @@
 # Przemysław Gałuszka  
 ## strona prywatna  
-
