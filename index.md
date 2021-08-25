@@ -6,12 +6,10 @@ Na stronie tej znajdziecie również nowe wpisy, dotyczące zagadnień techniczn
 Poniżej znajdziecie coś na kształt "menu" - dzięki niemu będziecie mogli znaleźć nowe oraz stare wpisy.  
 
 ### Menu  
-LP | Typ wpisów |
----------|----------|
- 1 | Blog - Technologia |
- 2 | Blog - Prywatnie |
- 3 | O stronie |
- 4 | Archiwum | 
+1 | Blog - Technologia  
+2 | Blog - Prywatnie  
+3 | O stronie  
+4 | Archiwum  
 
  ### Ostatnie wpisy  
- • DATE: Tytuł wpisu
+ • : Tytuł wpisu
