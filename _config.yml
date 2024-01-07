@@ -1,14 +1,15 @@
-theme: minima
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 description: Przemysław Gałuszka - Blog prywatny
 title: Keep learning and evolving
 
 author:
   name: Przemysław Gałuszka
   email: galuszka.it@gmail.com
-  
+
+theme: minima
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
