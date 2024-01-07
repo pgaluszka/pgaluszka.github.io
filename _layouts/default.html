@@ -23,14 +23,21 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2> 
           <center><img src="assets/headimage.png"></center>
-          <center><table style="width:100%">
-            <tr>
-              <td>Strona Główna</td>
-              <td>Blog</td>
-              <td>O mnie</td>
-              <td>Kontakt</td>
-            </tr>
-          </table></center>
+          <div role="region" tabindex="0">
+            <center>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Strona Główna</th>
+                        <th>Blog</th>
+                        <th>O mnie</th>
+                        <th>Kontakt</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            </center>
+            </div>
 
           {% if site.show_downloads %}
             <section id="downloads">
