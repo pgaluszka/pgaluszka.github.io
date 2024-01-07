@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<img align="right" src="assets/photo.jpg" alt="..." width=300 height=300>  
+
 Witaj na moim blogu, gdzie staram się zgłębiać fascynujący świat technologii! Staram się pisać o zróżnicowanych tematach, obejmujące trendy technologiczne, innowacje oraz praktyczne porady z szeroko pojętej dziedziny technologii.
 
 Moją pasją jest eksplorowanie najnowszych gadżetów, analizowanie najświeższych informacji na temat smartfonów, laptopów, oraz innych urządzeń elektronicznych. Poprzez wpisy tutaj staram się dzielić moimi przemyśleniami w temacie gier komputerowych, nowoczesnych rozwiązań w dziedzinie programowania i wszelkich innowacji, które kształtują naszą cyfrową rzeczywistość.  
