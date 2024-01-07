@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="right" src="assets/photo.jpg" alt="..." width=300 height=300>  
+<img align="right" src="assets/photo.jpg" alt="..." width=200 height=200>  
 
 Witaj na moim blogu, gdzie staram się zgłębiać fascynujący świat technologii! Staram się pisać o zróżnicowanych tematach, obejmujące trendy technologiczne, innowacje oraz praktyczne porady z szeroko pojętej dziedziny technologii.
 
