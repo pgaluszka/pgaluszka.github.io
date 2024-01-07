@@ -1,10 +1,6 @@
 description: Przemysław Gałuszka - Blog prywatny
 title: Keep learning and evolving
 
-author:
-  name: Przemysław Gałuszka
-  email: galuszka.it@gmail.com
-
 theme: minima
 
 plugins:
