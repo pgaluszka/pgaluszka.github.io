@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/photo.jpg" alt="..." width=250 height=250 style="float:left;margin:0px 12px" >  
+<img src="assets/photo.jpg" alt="..." width=250 height=250 style="float:left;margin:10px" >  
   
 Witaj na moim blogu, gdzie staram się zgłębiać fascynujący świat technologii! Staram się pisać o zróżnicowanych tematach, obejmujące trendy technologiczne, innowacje oraz praktyczne porady z szeroko pojętej dziedziny technologii.
 
